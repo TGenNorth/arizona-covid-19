@@ -60,8 +60,8 @@ def switch_division(node):
     """
     division_exposure = node["node_attrs"].get("division_exposure", None)
     division = node["node_attrs"].get("division", None)
-    if (division and not division_exposure):
-        raise Exception("Where there's division we should always have division_exposure")
+    #if (division and not division_exposure):
+    #    raise Exception("Where there's division we should always have division_exposure")
     if division_exposure:
       node["node_attrs"]["division"] = copy.copy(division_exposure)
       # if has a 'real' exposure history, then put this back in place now! Delete all others.
@@ -134,10 +134,8 @@ if __name__ == '__main__':
     update_latlongs(input_json["meta"]["geo_resolutions"], division_values, latlongs)
 
     # Remove `division_exposure` from filters - we only included it so that `augur_export` would include the trait
-    # on the nodes. 
+    # on the nodes.
     input_json["meta"]["filters"] = [f for f in input_json["meta"]["filters"] if f!="division_exposure"]
 
     with open(sys.argv[4], 'w') as fh:
         json.dump(input_json, fh, indent=2)
-
-
