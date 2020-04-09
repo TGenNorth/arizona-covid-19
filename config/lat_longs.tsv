@@ -138,8 +138,23 @@ location	Yongchuan	29.374774	105.925391
 location	Yorkshire	53.3833	-1.4599
 location	Zeewolde	52.3311	5.5405
 location	Zhengzhou	34.714074	113.621939
-location	Zhongxian	30.323947	108.012855
+location	Zhongxian	30.323947 108.012855
 location	Zhuhai	22.271346	113.562879
+location  Apache	36.1	-109.48
+location  Cochise	31.89	-109.72
+location  Coconino	35.9	-111.65
+location  Gila	33.75	-110.6
+location  Graham	32.9	-109.9
+location  Greenlee	33.35	-109.26
+location  La Paz	33.8	-113.9
+location  Maricopa	33.55	-112.4
+location  Mohave	35.4	-113.85
+location  Navajo	34.94	-110.25
+location  Pima	32.1	-111.8
+location  Pinal	32.8	-111.3
+location  Santa Cruz	31.5	-110.81
+location  Yavapai	34.6	-112.48
+location  Yuma	32.7	-113.9
 
 division	Aargau	47.420629	8.172097
 division	Aichi	35.067543	137.334061
@@ -208,7 +223,7 @@ division	Ile De France	48.724751	2.491522
 division	Illinois	40.088552	-89.301876
 division	Iran	34.5732	51.876
 division	Ireland	52.865	-7.979
-division	Italy	43.382775	12.183629 
+division	Italy	43.382775	12.183629
 division	Japan	35.68536	139.75309
 division	Jiangsu	33.077761	119.825116
 division	Jiangxi	27.458973	115.535326
@@ -313,4 +328,4 @@ country	Georgia	41.989378	43.597463
 country	Luxembourg	49.755428	6.119486
 country	Panama	8.98333	-79.5166
 country	Denmark	56.2639	9.5018
-country	England	52.3555	-1.1743
+country	England	52.3555	-1.1743county	lat	long
