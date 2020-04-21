@@ -1700,7 +1700,7 @@
       6.4e-05
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268002": {
+  "TGEN-CoV-AZ-WMTS-TG268002|Coconino|2020-03-17": {
     "frequencies": [
       7e-06,
       0.000535,
@@ -1709,7 +1709,7 @@
       0.002104
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268099": {
+  "TGEN-CoV-AZ-WMTS-TG268099|Coconino|2020-03-17": {
     "frequencies": [
       6e-06,
       0.000466,
@@ -1718,7 +1718,7 @@
       0.002405
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268183": {
+  "TGEN-CoV-AZ-WMTS-TG268183|Coconino|2020-03-17": {
     "frequencies": [
       6e-06,
       0.000466,
@@ -1727,7 +1727,7 @@
       0.002405
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268188": {
+  "TGEN-CoV-AZ-WMTS-TG268188|Coconino|2020-03-17": {
     "frequencies": [
       6e-06,
       0.000466,
@@ -1736,7 +1736,7 @@
       0.002405
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268281": {
+  "TGEN-CoV-AZ-WMTS-TG268281|Coconino|2020-03-17": {
     "frequencies": [
       6e-06,
       0.000466,
@@ -1745,7 +1745,7 @@
       0.002405
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268282": {
+  "TGEN-CoV-AZ-WMTS-TG268282|Coconino|2020-03-17": {
     "frequencies": [
       6e-06,
       0.000466,
@@ -1754,7 +1754,7 @@
       0.002405
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268289": {
+  "TGEN-CoV-AZ-WMTS-TG268289|Yavapai|2020-03-17": {
     "frequencies": [
       6e-06,
       0.000466,
@@ -1763,7 +1763,7 @@
       0.002405
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268350": {
+  "TGEN-CoV-AZ-WMTS-TG268350|Coconino|2020-03-17": {
     "frequencies": [
       6e-06,
       0.000466,
@@ -1772,7 +1772,7 @@
       0.002405
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268360": {
+  "TGEN-CoV-AZ-WMTS-TG268360|Coconino|2020-03-18": {
     "frequencies": [
       5e-06,
       0.000404,
@@ -1781,7 +1781,7 @@
       0.002741
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268629": {
+  "TGEN-CoV-AZ-WMTS-TG268629|Coconino|2020-03-18": {
     "frequencies": [
       5e-06,
       0.000404,
@@ -1790,7 +1790,7 @@
       0.002741
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268657": {
+  "TGEN-CoV-AZ-WMTS-TG268657|Coconino|2020-03-17": {
     "frequencies": [
       6e-06,
       0.000466,
@@ -1799,7 +1799,7 @@
       0.002405
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268770": {
+  "TGEN-CoV-AZ-WMTS-TG268770|Coconino|2020-03-19": {
     "frequencies": [
       4e-06,
       0.000349,
@@ -1808,7 +1808,7 @@
       0.003115
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268893": {
+  "TGEN-CoV-AZ-WMTS-TG268893|Maricopa|2020-03-05": {
     "frequencies": [
       7.4e-05,
       0.002039,
@@ -1817,7 +1817,7 @@
       0.000397
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268903": {
+  "TGEN-CoV-AZ-WMTS-TG268903|Graham|2020-03-11": {
     "frequencies": [
       2.2e-05,
       0.001028,
@@ -1826,7 +1826,7 @@
       0.001031
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268905": {
+  "TGEN-CoV-AZ-WMTS-TG268905|Pima|2020-03-11": {
     "frequencies": [
       2.2e-05,
       0.001028,
@@ -1835,7 +1835,7 @@
       0.001031
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268909": {
+  "TGEN-CoV-AZ-WMTS-TG268909|Pima|2020-03-13": {
     "frequencies": [
       1.4e-05,
       0.000799,
@@ -1844,7 +1844,7 @@
       0.001384
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268911": {
+  "TGEN-CoV-AZ-WMTS-TG268911|Navajo|2020-03-13": {
     "frequencies": [
       1.4e-05,
       0.000799,
@@ -1853,7 +1853,7 @@
       0.001384
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268913": {
+  "TGEN-CoV-AZ-WMTS-TG268913|Pinal|2020-03-14": {
     "frequencies": [
       1.2e-05,
       0.000701,
@@ -1862,7 +1862,7 @@
       0.001596
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268915": {
+  "TGEN-CoV-AZ-WMTS-TG268915|Navajo|2020-03-12": {
     "frequencies": [
       1.8e-05,
       0.000908,
@@ -1871,7 +1871,7 @@
       0.001196
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG268917": {
+  "TGEN-CoV-AZ-WMTS-TG268917|Maricopa|2020-03-14": {
     "frequencies": [
       1.2e-05,
       0.000701,
@@ -1880,7 +1880,7 @@
       0.001596
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG269027": {
+  "TGEN-CoV-AZ-WMTS-TG269027|Coconino|2020-03-20": {
     "frequencies": [
       3e-06,
       0.000301,
@@ -1889,7 +1889,7 @@
       0.003529
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG269238": {
+  "TGEN-CoV-AZ-WMTS-TG269238|Coconino|2020-03-20": {
     "frequencies": [
       3e-06,
       0.000301,
@@ -1898,7 +1898,7 @@
       0.003529
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG269290": {
+  "TGEN-CoV-AZ-WMTS-TG269290|Coconino|2020-03-20": {
     "frequencies": [
       3e-06,
       0.000301,
@@ -1907,7 +1907,7 @@
       0.003529
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG269358": {
+  "TGEN-CoV-AZ-WMTS-TG269358|Yavapai|2020-03-20": {
     "frequencies": [
       3e-06,
       0.000301,
@@ -1916,7 +1916,7 @@
       0.003529
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG269439": {
+  "TGEN-CoV-AZ-WMTS-TG269439|Coconino|2020-03-20": {
     "frequencies": [
       3e-06,
       0.000301,
@@ -1925,7 +1925,7 @@
       0.003529
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG269440": {
+  "TGEN-CoV-AZ-WMTS-TG269440|Coconino|2020-03-19": {
     "frequencies": [
       4e-06,
       0.000349,
@@ -1934,7 +1934,7 @@
       0.003115
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG269824": {
+  "TGEN-CoV-AZ-WMTS-TG269824|Coconino|2020-03-23": {
     "frequencies": [
       1e-06,
       0.000189,
@@ -1943,7 +1943,7 @@
       0.00504
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG269848": {
+  "TGEN-CoV-AZ-WMTS-TG269848|Maricopa|2020-03-17": {
     "frequencies": [
       6e-06,
       0.000466,
@@ -1952,7 +1952,7 @@
       0.002405
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG269856": {
+  "TGEN-CoV-AZ-WMTS-TG269856|Maricopa|2020-03-14": {
     "frequencies": [
       1.2e-05,
       0.000701,
@@ -1961,7 +1961,7 @@
       0.001596
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG269863": {
+  "TGEN-CoV-AZ-WMTS-TG269863|Maricopa|2020-03-16": {
     "frequencies": [
       7e-06,
       0.000535,
@@ -1970,7 +1970,7 @@
       0.002104
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG269875": {
+  "TGEN-CoV-AZ-WMTS-TG269875|Pinal|2020-03-17": {
     "frequencies": [
       6e-06,
       0.000466,
@@ -1979,7 +1979,7 @@
       0.002405
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG269883": {
+  "TGEN-CoV-AZ-WMTS-TG269883|Maricopa|2020-03-12": {
     "frequencies": [
       1.8e-05,
       0.000908,
@@ -1988,7 +1988,7 @@
       0.001196
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG270152": {
+  "TGEN-CoV-AZ-WMTS-TG270152|Yavapi|2020-03-25": {
     "frequencies": [
       1e-06,
       0.000137,
@@ -1997,7 +1997,7 @@
       0.006296
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG270200": {
+  "TGEN-CoV-AZ-WMTS-TG270200|Navajo|2020-03-26": {
     "frequencies": [
       1e-06,
       0.000116,
@@ -2006,7 +2006,7 @@
       0.007006
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271435": {
+  "TGEN-CoV-AZ-WMTS-TG271435|Coconino|2020-03-27": {
     "frequencies": [
       1e-06,
       9.8e-05,
@@ -2015,7 +2015,7 @@
       0.007773
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271578": {
+  "TGEN-CoV-AZ-WMTS-TG271578|Coconino|2020-03-17": {
     "frequencies": [
       6e-06,
       0.000466,
@@ -2024,7 +2024,7 @@
       0.002405
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271591": {
+  "TGEN-CoV-AZ-WMTS-TG271591|Coconino|2020-03-25": {
     "frequencies": [
       1e-06,
       0.000137,
@@ -2033,7 +2033,7 @@
       0.006296
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271854": {
+  "TGEN-CoV-AZ-WMTS-TG271854|Pima|2020-03-17": {
     "frequencies": [
       6e-06,
       0.000466,
@@ -2042,7 +2042,7 @@
       0.002405
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271856": {
+  "TGEN-CoV-AZ-WMTS-TG271856|Maricopa|2020-03-19": {
     "frequencies": [
       4e-06,
       0.000349,
@@ -2051,7 +2051,7 @@
       0.003115
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271860": {
+  "TGEN-CoV-AZ-WMTS-TG271860|Yuma|2020-03-23": {
     "frequencies": [
       1e-06,
       0.000189,
@@ -2060,7 +2060,7 @@
       0.00504
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271862": {
+  "TGEN-CoV-AZ-WMTS-TG271862|Cochise|2020-03-22": {
     "frequencies": [
       2e-06,
       0.000222,
@@ -2069,7 +2069,7 @@
       0.004489
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271864": {
+  "TGEN-CoV-AZ-WMTS-TG271864|Mohave|2020-03-23": {
     "frequencies": [
       1e-06,
       0.000189,
@@ -2078,7 +2078,7 @@
       0.00504
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271866": {
+  "TGEN-CoV-AZ-WMTS-TG271866|Pinal|2020-03-23": {
     "frequencies": [
       1e-06,
       0.000189,
@@ -2087,7 +2087,7 @@
       0.00504
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271868": {
+  "TGEN-CoV-AZ-WMTS-TG271868|Pinal|2020-03-23": {
     "frequencies": [
       1e-06,
       0.000189,
@@ -2096,7 +2096,7 @@
       0.00504
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271870": {
+  "TGEN-CoV-AZ-WMTS-TG271870|Pinal|2020-03-24": {
     "frequencies": [
       1e-06,
       0.000161,
@@ -2105,7 +2105,7 @@
       0.005642
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271872": {
+  "TGEN-CoV-AZ-WMTS-TG271872|Pinal|2020-03-24": {
     "frequencies": [
       1e-06,
       0.000161,
@@ -2114,7 +2114,7 @@
       0.005642
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271878": {
+  "TGEN-CoV-AZ-WMTS-TG271878|UNK|2020-03-20": {
     "frequencies": [
       3e-06,
       0.000301,
@@ -2123,7 +2123,7 @@
       0.003529
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271880": {
+  "TGEN-CoV-AZ-WMTS-TG271880|LaPaz|2020-03-24": {
     "frequencies": [
       1e-06,
       0.000161,
@@ -2132,7 +2132,7 @@
       0.005642
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271882": {
+  "TGEN-CoV-AZ-WMTS-TG271882|Maricopa|2020-03-20": {
     "frequencies": [
       3e-06,
       0.000301,
@@ -2141,7 +2141,7 @@
       0.003529
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271884": {
+  "TGEN-CoV-AZ-WMTS-TG271884|Pinal|2020-03-25": {
     "frequencies": [
       1e-06,
       0.000137,
@@ -2150,7 +2150,7 @@
       0.006296
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271886": {
+  "TGEN-CoV-AZ-WMTS-TG271886|Maricopa|2020-03-26": {
     "frequencies": [
       1e-06,
       0.000116,
@@ -2159,7 +2159,7 @@
       0.007006
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271888": {
+  "TGEN-CoV-AZ-WMTS-TG271888|Maricopa|2020-03-26": {
     "frequencies": [
       1e-06,
       0.000116,
@@ -2168,7 +2168,7 @@
       0.007006
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271890": {
+  "TGEN-CoV-AZ-WMTS-TG271890|Maricopa|2020-03-26": {
     "frequencies": [
       1e-06,
       0.000116,
@@ -2177,7 +2177,7 @@
       0.007006
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271892": {
+  "TGEN-CoV-AZ-WMTS-TG271892|Coconino|2020-03-26": {
     "frequencies": [
       1e-06,
       0.000116,
@@ -2186,7 +2186,7 @@
       0.007006
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271894": {
+  "TGEN-CoV-AZ-WMTS-TG271894|Maricopa|2020-03-26": {
     "frequencies": [
       1e-06,
       0.000116,
@@ -2195,7 +2195,7 @@
       0.007006
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271896": {
+  "TGEN-CoV-AZ-WMTS-TG271896|Maricopa|2020-03-27": {
     "frequencies": [
       1e-06,
       9.8e-05,
@@ -2204,7 +2204,7 @@
       0.007773
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271898": {
+  "TGEN-CoV-AZ-WMTS-TG271898|Maricopa|2020-03-27": {
     "frequencies": [
       1e-06,
       9.8e-05,
@@ -2213,7 +2213,7 @@
       0.007773
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271900": {
+  "TGEN-CoV-AZ-WMTS-TG271900|Maricopa|2020-03-27": {
     "frequencies": [
       1e-06,
       9.8e-05,
@@ -2222,7 +2222,7 @@
       0.007773
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271902": {
+  "TGEN-CoV-AZ-WMTS-TG271902|Najavo|2020-03-26": {
     "frequencies": [
       1e-06,
       0.000116,
@@ -2231,7 +2231,7 @@
       0.007006
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG271922": {
+  "TGEN-CoV-AZ-WMTS-TG271922|Maricopa|2020-03-26": {
     "frequencies": [
       1e-06,
       0.000116,
@@ -2240,7 +2240,7 @@
       0.007006
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG272213": {
+  "TGEN-CoV-AZ-WMTS-TG272213|Coconino|2020-04-01": {
     "frequencies": [
       0.0,
       4e-05,
@@ -2249,7 +2249,7 @@
       0.012493
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG272215": {
+  "TGEN-CoV-AZ-WMTS-TG272215|Coconino|2020-04-01": {
     "frequencies": [
       0.0,
       4e-05,
@@ -2258,7 +2258,7 @@
       0.012493
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG273280": {
+  "TGEN-CoV-AZ-WMTS-TG273280|Maricopa|2020-03-25": {
     "frequencies": [
       1e-06,
       0.000137,
@@ -2267,7 +2267,7 @@
       0.006296
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG273282": {
+  "TGEN-CoV-AZ-WMTS-TG273282|Maricopa|2020-03-25": {
     "frequencies": [
       1e-06,
       0.000137,
@@ -2276,7 +2276,7 @@
       0.006296
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG273286": {
+  "TGEN-CoV-AZ-WMTS-TG273286|Maricopa|2020-03-30": {
     "frequencies": [
       0.0,
       5.8e-05,
@@ -2285,7 +2285,7 @@
       0.010426
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG273294": {
+  "TGEN-CoV-AZ-WMTS-TG273294|Maricopa|2020-03-31": {
     "frequencies": [
       0.0,
       4.8e-05,
@@ -2294,7 +2294,7 @@
       0.01143
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG273300": {
+  "TGEN-CoV-AZ-WMTS-TG273300|Maricopa|2020-03-31": {
     "frequencies": [
       0.0,
       4.8e-05,
@@ -2303,7 +2303,7 @@
       0.01143
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG273302": {
+  "TGEN-CoV-AZ-WMTS-TG273302|Maricopa|2020-03-31": {
     "frequencies": [
       0.0,
       4.8e-05,
@@ -2312,7 +2312,7 @@
       0.01143
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG273304": {
+  "TGEN-CoV-AZ-WMTS-TG273304|Maricopa|2020-04-01": {
     "frequencies": [
       0.0,
       4e-05,
@@ -2321,7 +2321,7 @@
       0.012493
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG273308": {
+  "TGEN-CoV-AZ-WMTS-TG273308|Maricopa|2020-04-01": {
     "frequencies": [
       0.0,
       4e-05,
@@ -2330,7 +2330,7 @@
       0.012493
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG273310": {
+  "TGEN-CoV-AZ-WMTS-TG273310|Maricopa|2020-04-01": {
     "frequencies": [
       0.0,
       4e-05,
@@ -2339,7 +2339,7 @@
       0.012493
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG273314": {
+  "TGEN-CoV-AZ-WMTS-TG273314|Maricopa|2020-04-01": {
     "frequencies": [
       0.0,
       4e-05,
@@ -2348,7 +2348,7 @@
       0.012493
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG273316": {
+  "TGEN-CoV-AZ-WMTS-TG273316|Maricopa|2020-04-02": {
     "frequencies": [
       0.0,
       3.3e-05,
@@ -2357,7 +2357,7 @@
       0.013614
     ]
   },
-  "TGEN-CoV-AZ-WMTS-TG273318": {
+  "TGEN-CoV-AZ-WMTS-TG273318|Maricopa|2020-04-02": {
     "frequencies": [
       0.0,
       3.3e-05,
