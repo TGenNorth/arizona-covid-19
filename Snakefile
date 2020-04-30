@@ -45,7 +45,7 @@ rule download:
     shell:
         """
         cp /scratch/zkoch/covid-19/phylogenies/data_to_update_with_04292020/arizona-covid-19/metadata.tsv {output.metadata:q}
-        cp /scratch/zkoch/covid-19/phylogenies/data_to_update_with_04292020/arizona-covid-19/sequences.fasta {output.sequences:q}
+        cp /scratch/zkoch/covid-19/phylogenies/prePrintData/sequences.fasta {output.sequences:q}
         """
 
 checkpoint partition_sequences:
