@@ -44,46 +44,13 @@ rule download:
         metadata = config["metadata"]
     shell:
         """
-        aws s3 cp s3://nextstrain-ncov-private/sequences.fasta {output.sequences:q}
-        aws s3 cp s3://nextstrain-ncov-private/metadata.tsv {output.metadata:q}
-        """
-
-rule filter:
-    message:
-        """
-        Filtering to
-          - excluding strains in {input.exclude}
-          - minimum genome length of {params.min_length}
-        """
-    input:
-        sequences = rules.download.output.sequences,
-        metadata = rules.download.output.metadata,
-        include = files.include,
-        exclude = files.exclude
-    output:
-        sequences = "results/filtered.fasta"
-    params:
-        min_length = 25000,
-        group_by = "country",
-        sequences_per_group = 500,
-        exclude_where = "date='2020' date='2020-01-XX' date='2020-02-XX' date='2020-03-XX' date='2020-01' date='2020-02' date='2020-03'"
-    shell:
-        """
-        augur filter \
-            --sequences {input.sequences} \
-            --metadata {input.metadata} \
-            --include {input.include} \
-            --exclude {input.exclude} \
-            --exclude-where {params.exclude_where}\
-            --min-length {params.min_length} \
-            --group-by {params.group_by} \
-            --sequences-per-group {params.sequences_per_group} \
-            --output {output.sequences}
+        cp /scratch/zkoch/covid-19/phylogenies/data_to_update_with_04292020/arizona-covid-19/metadata.tsv {output.metadata:q}
+        cp /scratch/zkoch/covid-19/phylogenies/data_to_update_with_04292020/arizona-covid-19/sequences.fasta {output.sequences:q}
         """
 
 checkpoint partition_sequences:
     input:
-        sequences = rules.filter.output.sequences
+        sequences = rules.download.output.sequences
     output:
         split_sequences = directory("results/split_sequences")
     params:
@@ -275,33 +242,6 @@ rule translate:
             --output-node-data {output.node_data} \
         """
 
-rule traits:
-    message:
-        """
-        Inferring ancestral traits for {params.columns!s}
-          - increase uncertainty of reconstruction by {params.sampling_bias_correction} to partially account for sampling bias
-        """
-    input:
-        tree = "results/tree.nwk",
-        metadata = rules.download.output.metadata,
-        weights = files.weights
-    output:
-        node_data = "results/traits.json",
-    params:
-        columns = "division_exposure",
-        sampling_bias_correction = 2.5
-    shell:
-        """
-        augur traits \
-            --tree {input.tree} \
-            --metadata {input.metadata} \
-            --weights {input.weights} \
-            --output {output.node_data} \
-            --columns {params.columns} \
-            --confidence \
-            --sampling-bias-correction {params.sampling_bias_correction} \
-        """
-
 rule clades:
     message: "Adding internal clade labels"
     input:
@@ -380,7 +320,6 @@ rule export:
         branch_lengths = rules.refine.output.node_data,
         nt_muts = rules.ancestral.output.node_data,
         aa_muts = rules.translate.output.node_data,
-        traits = rules.traits.output.node_data,
         auspice_config = files.auspice_config,
         colors = rules.colors.output.colors,
         lat_longs = files.lat_longs,
@@ -394,7 +333,7 @@ rule export:
         augur export v2 \
             --tree {input.tree} \
             --metadata {input.metadata} \
-            --node-data {input.branch_lengths} {input.nt_muts} {input.aa_muts} {input.traits} {input.clades} {input.recency} \
+            --node-data {input.branch_lengths} {input.nt_muts} {input.aa_muts} {input.clades} {input.recency} \
             --auspice-config {input.auspice_config} \
             --colors {input.colors} \
             --lat-longs {input.lat_longs} \
@@ -410,7 +349,6 @@ rule export_gisaid:
         branch_lengths = rules.refine.output.node_data,
         nt_muts = rules.ancestral.output.node_data,
         aa_muts = rules.translate.output.node_data,
-        traits = rules.traits.output.node_data,
         auspice_config = files.auspice_config_gisaid,
         colors = rules.colors.output.colors,
         lat_longs = files.lat_longs,
@@ -424,7 +362,7 @@ rule export_gisaid:
         augur export v2 \
             --tree {input.tree} \
             --metadata {input.metadata} \
-            --node-data {input.branch_lengths} {input.nt_muts} {input.aa_muts} {input.traits} {input.clades} {input.recency} \
+            --node-data {input.branch_lengths} {input.nt_muts} {input.aa_muts} {input.clades} {input.recency} \
             --auspice-config {input.auspice_config} \
             --colors {input.colors} \
             --lat-longs {input.lat_longs} \
@@ -440,7 +378,6 @@ rule export_zh:
         branch_lengths = rules.refine.output.node_data,
         nt_muts = rules.ancestral.output.node_data,
         aa_muts = rules.translate.output.node_data,
-        traits = rules.traits.output.node_data,
         auspice_config = files.auspice_config_zh,
         colors = rules.colors.output.colors,
         lat_longs = files.lat_longs,
@@ -454,7 +391,7 @@ rule export_zh:
         augur export v2 \
             --tree {input.tree} \
             --metadata {input.metadata} \
-            --node-data {input.branch_lengths} {input.nt_muts} {input.aa_muts} {input.traits} {input.clades} {input.recency} \
+            --node-data {input.branch_lengths} {input.nt_muts} {input.aa_muts} {input.clades} {input.recency} \
             --auspice-config {input.auspice_config} \
             --colors {input.colors} \
             --lat-longs {input.lat_longs} \
@@ -606,7 +543,8 @@ rule deploy_to_staging:
         *rules.all.input
     params:
         slack_message = json.dumps({"text":f"Deployed <https://nextstrain.org/staging/ncov|nextstrain.org/staging/ncov> {deploy_origin}"}),
-        slack_webhook = config["slack_webhook"] or "",
+        #config["slack_webhook"] or ""
+        slack_webhook = "",
         s3_staging_url = config["s3_staging_url"]
     shell:
         """
