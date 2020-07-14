@@ -1,16 +1,16 @@
 ---
-title: TGen North Naaratives Test Page
+title: TGen North Naaratives Test Page.
 authors: "Author Names Here"
 authorLinks: "https://www.tgen.org/patients/pathogen-microbiome/"
 affiliations: "Affiliations Go Here"
-date: "2020 July 14"
-dataset: "https://nextstrain.org/community/tgennorth/arizona-covid-19/?d=map"
+date: "2020 Jul 14"
+dataset: "https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map"
 abstract: "Abstract Goes Here"
 ---
 
-# Text Formatting Examples
----
+# [Text Formatting Examples](https://nextstrain.org/community/tgennorth/arizona-covid-19)
 
+```auspiceMainDisplayMarkdown
 # You Can Add A Header
 ## Subheader
 ### Sub sub header?
@@ -37,9 +37,6 @@ tables | and  | data
 
 And images too!!
 ![alt text](https://www.tgen.org/media/491008/tgen-logo-descending.png "TGen North")
-
-```auspiceMainDisplayMarkdown
-# Right Window Main Display
 ```
 # [Map View](https://nextstrain.org/community/tgennorth/arizona-covid-19/?d=map)
 
