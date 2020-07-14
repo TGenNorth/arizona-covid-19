@@ -38,8 +38,8 @@ tables | and  | data
 And images too!!
 ![alt text](https://www.tgen.org/media/491008/tgen-logo-descending.png "TGen North")
 ```
-# [Map View](https://nextstrain.org/community/tgennorth/arizona-covid-19/?d=map)
+# [Map View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map)
 
-# [Tree View](https://nextstrain.org/community/tgennorth/arizona-covid-19/?d=tree)
+# [Tree View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=tree)
 
 # [Combined View](https://nextstrain.org/community/tgennorth/arizona-covid-19/:community/tgennorth/arizona-covid-19/genome-sampler?label=clade:B)
