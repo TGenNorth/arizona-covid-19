@@ -21,6 +21,6 @@ text
 
 text
 
-# [Combined View](https://nextstrain.org/community/tgennorth/arizona-covid-19/:community/tgennorth/arizona-covid-19/genome-sampler?label=clade:B)
+# [Combined View](https://nextstrain.org/community/tgennorth/arizona-covid-19/:https://nextstrain.org/community/tgennorth/arizona-covid-19/genome-sampler?label=clade:B)
 
 text
