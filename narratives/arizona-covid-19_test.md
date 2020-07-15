@@ -33,8 +33,8 @@ You can emphasis with _italics_, **bold**, or **_both_**. Pretty crazy right?
 
 * And lists!!
  * Embedded lists.
- - [ ] Tasks?
- - [x] So many tasks!!
+ * [ ] Tasks?
+ * [x] So many tasks!!
   1. Numbered Too :D
   2. Anything is possible :D
 
@@ -50,8 +50,8 @@ Links only work [after any text in a paragraph](google.com), but not at the star
 ```auspiceMainDisplayMarkdown
 * And lists!!
  * Embedded lists.
- - [ ] Tasks?
- - [x] So many tasks!!
+ * [ ] Tasks?
+ * [x] So many tasks!!
   1. Numbered?
   2. Anything is possible :D
 
