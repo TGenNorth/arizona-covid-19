@@ -43,8 +43,6 @@ You | Can | Also
 add | tons | of
 tables | and  | data
 
-[links!! So many links!!](google.com)
-
 ```auspiceMainDisplayMarkdown
 * And lists!!
  * Embedded lists.
@@ -57,8 +55,6 @@ You | Can | Also
 --- | --- | --- 
 add | tons | of
 tables | and  | data
-
-[links!! So many links!!](google.com)
 ```
 
 # [Map View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map)
