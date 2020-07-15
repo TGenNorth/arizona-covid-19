@@ -29,21 +29,30 @@ You can emphasis with _italics_, **bold**, or **_both_**. Pretty crazy right?
 
 You can emphasis with _italics_, **bold**, or **_both_**. Pretty crazy right?
 ```
-# [List, Table, & Image Examples](https://nextstrain.org/community/tgennorth/arizona-covid-19)
+# [List, Table, Links, & Image Examples](https://nextstrain.org/community/tgennorth/arizona-covid-19)
 
 * And lists!!
  * Embedded lists.
-  1. Numbered?
+ - [ ] Tasks?
+ - [x] Yes Sir!!
+  1. Numbered Too :D
   2. Anything is possible :D
 
 You | Can | Also
 --- | --- | --- 
 add | tons | of
 tables | and  | data
+
+[links!! So many links!!](google.com)
+
+Did I just here someone ask for images?
+![wam bam logos!!](https://www.tgen.org/media/491008/tgen-logo-descending.png)
 
 ```auspiceMainDisplayMarkdown
 * And lists!!
  * Embedded lists.
+ - [ ] Tasks?
+ - [x] Yes Sir!!
   1. Numbered?
   2. Anything is possible :D
 
@@ -51,6 +60,11 @@ You | Can | Also
 --- | --- | --- 
 add | tons | of
 tables | and  | data
+
+[links!! So many links!!](google.com)
+
+Did I just here someone ask for images?
+![wam bam logos!!](https://www.tgen.org/media/491008/tgen-logo-descending.png)
 ```
 
 # [Map View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map)
