@@ -54,7 +54,7 @@ You | Can | Also
 add | tons | of
 tables | and  | data
 
-[links](google.com)
+Links only work [after any text in a paragraph](google.com), but not at the start of a paragraph
 ```
 
 # [Map View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map)
