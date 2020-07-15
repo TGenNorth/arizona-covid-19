@@ -1,5 +1,5 @@
 ---
-title: TGen North Naaratives Test Page.
+title: TGen North Narratives Test Page
 authors: "Author Names Here"
 authorLinks: "https://www.tgen.org/patients/pathogen-microbiome/"
 affiliations: "Affiliations Go Here"
@@ -8,7 +8,7 @@ dataset: "https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map"
 abstract: "Abstract Goes Here"
 ---
 
-# [Text Formatting Examples](https://nextstrain.org/community/tgennorth/arizona-covid-19)
+# [Formatting Examples](https://nextstrain.org/community/tgennorth/arizona-covid-19)
 
 # You Can Add A Header                                                                                  
 ## Subheader
@@ -16,6 +16,8 @@ abstract: "Abstract Goes Here"
 #### They just keep going!
 ##### Are these really headers anymore?
 ###### Im technically a header too!!
+
+You can emphasis with _italics_, **bold**, or **_both_**. Pretty crazy right?
 
 ```auspiceMainDisplayMarkdown
 # You Can Add A Header                                                                                  
@@ -24,7 +26,23 @@ abstract: "Abstract Goes Here"
 #### They just keep going!
 ##### Are these really headers anymore?
 ###### Im technically a header too!!
+
+You can emphasis with _italics_, **bold**, or **_both_**. Pretty crazy right?
 ```
+# [List and Table Examples](https://nextstrain.org/community/tgennorth/arizona-covid-19)
+
+* And lists!!
+.* Embedded lists.
+..1. Numbered?
+..2. Anything is possible :D
+
+```auspiceMainDisplayMarkdown
+* And lists!!
+.* Embedded lists.
+..1. Numbered?
+..2. Anything is possible :D
+```
+
 # [Map View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map)
 
 text
