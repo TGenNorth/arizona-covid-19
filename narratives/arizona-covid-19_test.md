@@ -29,18 +29,28 @@ You can emphasis with _italics_, **bold**, or **_both_**. Pretty crazy right?
 
 You can emphasis with _italics_, **bold**, or **_both_**. Pretty crazy right?
 ```
-# [List and Table Examples](https://nextstrain.org/community/tgennorth/arizona-covid-19)
+# [List, Table, & Image Examples](https://nextstrain.org/community/tgennorth/arizona-covid-19)
 
 * And lists!!
-.* Embedded lists.
-..1. Numbered?
-..2. Anything is possible :D
+ * Embedded lists.
+  1. Numbered?
+  2. Anything is possible :D
+
+You | Can | Also
+--- | --- | --- 
+add | tons | of
+tables | and  | data
 
 ```auspiceMainDisplayMarkdown
 * And lists!!
-.* Embedded lists.
-..1. Numbered?
-..2. Anything is possible :D
+ * Embedded lists.
+  1. Numbered?
+  2. Anything is possible :D
+
+You | Can | Also
+--- | --- | --- 
+add | tons | of
+tables | and  | data
 ```
 
 # [Map View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map)
