@@ -45,10 +45,6 @@ tables | and  | data
 
 [links!! So many links!!](google.com)
 
-Did I just here someone ask for images?
-![wam bam logos](https://www.tgen.org/media/491008/tgen-logo-descending.png)
-Format: ![Alt Text](url)
-
 ```auspiceMainDisplayMarkdown
 * And lists!!
  * Embedded lists.
@@ -63,10 +59,6 @@ add | tons | of
 tables | and  | data
 
 [links!! So many links!!](google.com)
-
-Did I just here someone ask for images?
-![wam bam logos](https://www.tgen.org/media/491008/tgen-logo-descending.png)
-Format: ![Alt Text](url)
 ```
 
 # [Map View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map)
