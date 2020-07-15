@@ -10,8 +10,20 @@ abstract: "Abstract Goes Here"
 
 # [Text Formatting Examples](https://nextstrain.org/community/tgennorth/arizona-covid-19)
 
+# You Can Add A Header                                                                                  
+## Subheader
+### Sub sub header?
+#### They just keep going!
+##### Are these really headers anymore?
+###### Im technically a header too!!
+
 ```auspiceMainDisplayMarkdown
-text
+# You Can Add A Header                                                                                  
+## Subheader
+### Sub sub header?
+#### They just keep going!
+##### Are these really headers anymore?
+###### Im technically a header too!!
 ```
 # [Map View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map)
 
