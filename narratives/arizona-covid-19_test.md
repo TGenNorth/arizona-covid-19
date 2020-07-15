@@ -41,7 +41,9 @@ You | Can | Also
 add | tons | of
 tables | and  | data
 
-\[links?\]\(google.com\)
+Links only work [after any text in a paragraph](google.com), but not at the start of a paragraph.
+
+![images](https://www.tgen.org/media/491008/tgen-logo-descending.png)
 
 ```auspiceMainDisplayMarkdown
 * And lists!!
@@ -54,7 +56,10 @@ You | Can | Also
 add | tons | of
 tables | and  | data
 
-Links only work [after any text in a paragraph](google.com), but not at the start of a paragraph
+Links only work [after any text in a paragraph](google.com), but not at the start of a paragraph.
+
+![images](https://www.tgen.org/media/491008/tgen-logo-descending.png)
+
 ```
 
 # [Map View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map)
