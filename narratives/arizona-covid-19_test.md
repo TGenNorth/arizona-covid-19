@@ -33,8 +33,6 @@ You can emphasis with _italics_, **bold**, or **_both_**. Pretty crazy right?
 
 * And lists!!
  * Embedded lists.
- - [ ] Tasks?
- - [x] Yes Sir!!
   1. Numbered Too :D
   2. Anything is possible :D
 
@@ -46,8 +44,6 @@ tables | and  | data
 ```auspiceMainDisplayMarkdown
 * And lists!!
  * Embedded lists.
- - [ ] Tasks?
- - [x] Yes Sir!!
   1. Numbered?
   2. Anything is possible :D
 
