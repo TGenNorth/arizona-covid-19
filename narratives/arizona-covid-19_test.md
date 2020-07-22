@@ -74,9 +74,14 @@ Links only work [after any text in a paragraph](google.com), but not at the star
 
 ```
 
+# [Default View View](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
+
+Default View
+
 # [Map View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map)
+
+Map View
 
 # [Tree View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=tree)
 
-# [Combined View](https://nextstrain.org/community/tgennorth/arizona-covid-19/:https://nextstrain.org/community/tgennorth/arizona-covid-19/genome-sampler?label=clade:B)
-
+Tree View
