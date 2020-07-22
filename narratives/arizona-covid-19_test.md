@@ -8,6 +8,14 @@ dataset: "https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map"
 abstract: "Abstract Goes Here"
 ---
 
+# [Panel Text](https://nextstrain.org/community/tgennorth/arizona-covid-19)
+
+Left Panel Text
+
+```auspiceMainDisplayMarkdown
+Right Panel Text
+```
+
 # [Formatting Examples](https://nextstrain.org/community/tgennorth/arizona-covid-19)
 
 # You Can Add A Header                                                                                  
