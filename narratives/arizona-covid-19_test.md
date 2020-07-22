@@ -74,7 +74,7 @@ Links only work [after any text in a paragraph](google.com), but not at the star
 
 ```
 
-# [Default View View](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
+# [Default View](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
 
 Default View
 
