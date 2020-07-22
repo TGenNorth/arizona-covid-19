@@ -76,13 +76,7 @@ Links only work [after any text in a paragraph](google.com), but not at the star
 
 # [Map View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map)
 
-text
-
 # [Tree View](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=tree)
 
-text
-
 # [Combined View](https://nextstrain.org/community/tgennorth/arizona-covid-19/:https://nextstrain.org/community/tgennorth/arizona-covid-19/genome-sampler?label=clade:B)
-
-text
 
