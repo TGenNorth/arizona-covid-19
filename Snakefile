@@ -44,8 +44,8 @@ rule download:
         metadata = config["metadata"]
     shell:
         """
-        cp /scratch/zkoch/covid-19/phylogenies/data_to_update_with_04292020/arizona-covid-19/metadata.tsv {output.metadata:q}
-        cp /scratch/zkoch/covid-19/phylogenies/prePrintData/sequences.fasta {output.sequences:q}
+        cp /scratch/cfrench/COV/Nextstrain/data/nextstrain.tsv {output.metadata:q}
+        cp /scratch/cfrench/COV/Nextstrain/data/nextstrain.fasta {output.sequences:q}
         """
 
 checkpoint partition_sequences:
@@ -74,7 +74,7 @@ rule align:
         reference = files.reference
     output:
         alignment = "results/split_alignments/{i}.fasta"
-    threads: 2
+    threads: 16
     shell:
         """
         augur align \
@@ -134,7 +134,7 @@ rule tree:
         alignment = rules.mask.output.alignment
     output:
         tree = "results/tree_raw.nwk"
-    threads: 4
+    threads: 16
     shell:
         """
         augur tree \
@@ -159,7 +159,7 @@ rule refine:
         tree = "results/tree.nwk",
         node_data = "results/branch_lengths.json"
     params:
-        root = "Wuhan-Hu-1/2019 Wuhan/WH01/2019",
+        root = "Wuhan-Hu-1_2019 Wuhan_WH01_2019",
         clock_rate = 0.0008,
         clock_std_dev = 0.0004,
         coalescent = "skyline",
