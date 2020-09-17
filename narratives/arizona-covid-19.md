@@ -124,7 +124,11 @@ Using genomic epidemiology, we have a better understanding of the circulation of
 # [Acknowledgements](https://nextstrain.org/community/tgennorth/arizona-covid-19)
 
 ```auspiceMainDisplayMarkdown
-![images](https://pathogen.tgen.org/epitools/static/newick/images/tgenLogo.png)
+![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-tgen.png)
+![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-nau.png)
+![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-pmi.png)
+![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-ua.png)
+![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-asu.png)
 ```
 
 
