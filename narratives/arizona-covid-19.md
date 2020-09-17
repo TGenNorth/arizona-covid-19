@@ -99,10 +99,7 @@ Coming Soon
 
 # [Rapid Transmission of SARS-CoV-2 in Northern Arizona Tribal Community with Low Mortality](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst?c=gt-S_245&m=div&p=full)
 
-```auspiceMainDisplayMarkdown
-# Rapid Transmission of SARS-CoV-2 in Northern Arizona Tribal Community with Low Mortality
-
-```
+- Rapid Transmission of SARS-CoV-2 in Northern Arizona Tribal Community with Low Mortality
 
 # [Summary](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
 
