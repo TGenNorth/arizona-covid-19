@@ -27,7 +27,7 @@ This build includes a dataset of 812 SARS-CoV-2 genomes sequenced from COVID-19 
  
 The Arizona genomes are shown here with a global dataset of approximately XX genomes shared in the GSAID database. A majority of the Arizona samples fall within the B1 lineage which is the dominating North American strain.
 
-# [Arizona’s First COVID-19 Cases were Successfully Contained] (https://nextstrain.org/community/tgennorth/arizona-covid-19/gst?d=tree&f_division=Arizona&p=full&s=TG268188::Coconino::B.2::0.99::20-5463596::2020-03-17)
+# [Arizona’s First COVID-19 Cases were Successfully Contained](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst?d=tree&f_division=Arizona&p=full&s=TG268188::Coconino::B.2::0.99::20-5463596::2020-03-17)
 
 COVID-19 hit AZ on January 22, 2020, when a 26-year-old male affiliated with a local university presented to a university healthcare clinic in Maricopa County, Arizona reporting a 2-day history of nonproductive cough. He denied fever and other symptoms at presentation. He had returned from travel to China, including Wuhan City, 3 days prior to presentation, and reported having contact with one person with cough and fever while in China. The case was rapidly quarantined. Despite his specimens testing positive at  the CDC 18 days after diagnosis, no SARS-CoV-2 transmission was detected among 10 high-risk contacts, including 1 intimate contact, based on serial SARS-CoV-2 testing. The US CDC published a genome sequence for the sample collected from [this initial case](https://www.ncbi.nlm.nih.gov/nuccore/MN997409.1). 
  
