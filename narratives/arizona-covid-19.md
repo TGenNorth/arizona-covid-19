@@ -5,11 +5,11 @@ authorLinks: "https://www.tgen.org/patients/pathogen-microbiome/"
 affiliations: "ACGU, TGen"
 date: "2020 Sep 14"
 dataset: "https://nextstrain.org/community/tgennorth/arizona-covid-19/7-13-20?d=map"
-abstract: "Faculty at the Translational Genomics Research Institute (TGen), an affiliate of City of Hope, Northern Arizona University (NAU), University of Arizona (UArizona) and Arizona State University (ASU) launched the Arizona COVID Genomics Union (ACGU) to collaboratively track SARS-CoV-2, and examine how it evolves and how it spreads into, within and out of Arizona.
- 
-The ACGU uses state-of-the-art sequencers, custom computational analysis workflows, and supercomputers to determine the sequence of the virus’s RNA genome and reconstruct its evolutionary history with phylogenetics, to track its movements. TGen has so far sequenced SARS-CoV-2 genomes from over 3,000 COVID-19 positive samples for the ACGU, and additional sequencing was performed at ASU and UArizona, from among the more than 200,000 positive cases in Arizona, making it one of the most robust such efforts in the nation. ACGU receives Arizona samples collected by state, county, tribal and private healthcare systems.
- 
-ACGU scientists take advantage of small changes or mutations in the virus’ genome, which naturally occur over time as the virus reproduces, to track the spread of the virus. By comparing mutations observed in Arizona to those present in strains circulating across the globe, they can determine when and from where the virus was introduced to Arizona, and comparing strains within Arizona they can map its spread within and among Arizona’s communities."
+abstract: "The Translational Genomics Research Institute (TGen), an affiliate of City of Hope, Northern Arizona University (NAU), University of Arizona (UArizona) and Arizona State University (ASU) launched the Arizona COVID Genomics Union (ACGU) to collaboratively track SARS-CoV-2, and examine how it evolves and how it spreads into, within and out of Arizona.
+
+TGen has so far sequenced SARS-CoV-2 genomes from over 3,000 COVID-19 positive samples for the ACGU, and additional sequencing was performed at ASU and UArizona, from among the more than 200,000 positive cases in Arizona, making it one of the most robust such efforts in the nation. ACGU receives Arizona samples collected by state, county, tribal and private healthcare systems. The ACGU uses state-of-the-art sequencers, custom computational analysis workflows, and supercomputers to determine the sequence of the virus’s RNA genome and reconstruct its evolutionary history with phylogenetics, to track its movements. 
+
+ACGU scientists take advantage of small changes or mutations in the virus’ genome, which naturally occur over time as the virus reproduces, to track the spread of the virus. By comparing mutations observed in Arizona to those present in strains circulating across the globe, they can determine when and from where the virus was introduced to Arizona, and comparing strains within Arizona they can map its spread within and among Arizona’s communities"
 ---
 
 # [SARS-CoV-2 in Arizona](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
@@ -18,7 +18,6 @@ COVID-19 has gravely impacted Arizona, sweeping through urban areas, tribal comm
 
 ```auspiceMainDisplayMarkdown
 # Arizona COVID-19 Timeline
-
 ![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png)
 ```
 
@@ -28,35 +27,32 @@ This build includes a dataset of 812 SARS-CoV-2 genomes sequenced from COVID-19 
  
 The Arizona genomes are shown here with a global dataset of approximately XX genomes shared in the GSAID database. A majority of the Arizona samples fall within the B1 lineage which is the dominating North American strain.
 
-# [Arizona’s First COVID-19 Case was Successfully Contained](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst?d=tree&f_division=Arizona&p=full&s=TG268188::Coconino::B.2::0.99::20-5463596::2020-03-17)
+# [Arizona’s First COVID-19 Cases were Successfully Contained] (https://nextstrain.org/community/tgennorth/arizona-covid-19/gst?d=tree&f_division=Arizona&p=full&s=TG268188::Coconino::B.2::0.99::20-5463596::2020-03-17)
 
 COVID-19 hit AZ on January 22, 2020, when a 26-year-old male affiliated with a local university presented to a university healthcare clinic in Maricopa County, Arizona reporting a 2-day history of nonproductive cough. He denied fever and other symptoms at presentation. He had returned from travel to China, including Wuhan City, 3 days prior to presentation, and reported having contact with one person with cough and fever while in China. The case was rapidly quarantined. Despite his specimens testing positive at  the CDC 18 days after diagnosis, no SARS-CoV-2 transmission was detected among 10 high-risk contacts, including 1 intimate contact, based on serial SARS-CoV-2 testing. The US CDC published a genome sequence for the sample collected from [this initial case](https://www.ncbi.nlm.nih.gov/nuccore/MN997409.1). 
  
 Genomic analysis by the ACGU supports the public health contact tracing conclusions; continued genomic surveillance shows no evidence that this first case resulted in cryptic (undetected) transmission, as no strains of virus collected later in Arizona descended from this lineage. 
  
-The AZ1 genome contained one derived substitution (C to T at nucleotide position 29,031) that we did not observe in any other Arizona sequences. This substitution was, however, shared with 12 other genomes included in our analysis, all of which were sampled in China or Japan. This is consistent with infection of AZ1 occurring during documented travel to China.
- 
 **_Rapid public health response efforts, including quarantining, testing, and contact tracing, prevented this case from potentially igniting a much earlier outbreak in AZ._**
 
 # [Evidence of Multiple Introductions of SARS-CoV-2 into Arizona in February and March, Mostly from Domestic Travel](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
 
-SARS-CoV-2 was introduced into AZ at least 12 times by early April
-Multiple distinct SARS-CoV-2 lineages co-circulated in AZ; genomic analyses highlight 11 distinct lineages and/or sublineages in Arizona by early April  None of these lineages were unique to Arizona; they have all been documented in other parts of the United States and, in most cases, also in multiple countries around the world. In fact, the geographic ubiquity of the major SARS-CoV-2 lineages, along with the common observation of identical virus genomes sampled in multiple U.S. states, as well as other countries and continents, clearly demonstrates how frequently this virus has been moved among locales. Given the timing and size of the Arizona outbreak in March, relative to outbreaks in other locations, it is unlikely that any of these 11 lineages arose within Arizona. Therefore, the number of observed distinct lineages (12, including AZ1) represents a conservative estimate for the number of independent introductions of SARS-CoV-2 into Arizona.
+# [SARS-CoV-2 was introduced into AZ at least 12 times by early April](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
 
-```auspiceMainDisplayMarkdown
-![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-1.png)
+Multiple distinct SARS-CoV-2 lineages co-circulated in AZ; genomic analyses highlight 11 distinct lineages and/or sublineages in Arizona by early April. None of these lineages were unique to Arizona; they have all been documented in other parts of the United States and, in most cases, also in multiple countries around the world. In fact, the geographic ubiquity of the major SARS-CoV-2 lineages, along with the common observation of identical virus genomes sampled in multiple U.S. states, as well as other countries and continents, clearly demonstrates how frequently this virus has been moved among locales. Given the timing and size of the Arizona outbreak in March, relative to outbreaks in other locations, it is unlikely that any of these 11 lineages arose within Arizona. Therefore, the number of observed distinct lineages (12, including AZ1) represents a conservative estimate for the number of independent introductions of SARS-CoV-2 into Arizona.
 
-### SARS-CoV-2 was introduced into AZ at least 12 times by early April at least 12 times by early April
-Multiple distinct SARS-CoV-2 lineages co-circulated in AZ; genomic analyses highlight 11 distinct lineages and/or sublineages in Arizona by early April  None of these lineages were unique to Arizona; they have all been documented in other parts of the United States and, in most cases, also in multiple countries around the world. In fact, the geographic ubiquity of the major SARS-CoV-2 lineages, along with the common observation of identical virus genomes sampled in multiple U.S. states, as well as other countries and continents, clearly demonstrates how frequently this virus has been moved among locales. Given the timing and size of the Arizona outbreak in March, relative to outbreaks in other locations, it is unlikely that any of these 11 lineages arose within Arizona. Therefore, the number of observed distinct lineages (12, including AZ1) represents a conservative estimate for the number of independent introductions of SARS-CoV-2 into Arizona.
- 
-### SARS-CoV-2 was introduced into AZ in mid to late February
+# [SARS-CoV-2 was introduced into AZ in mid to late February](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
+
 Molecular clock analyses showed the introductions of SARS-CoV-2 that resulted in community transmission in AZ were in February and March. 
  
 XX% of our sequences descend from strains that were initially circulating widely in Europe but have since dominated the outbreak in the United States. In addition, we show that the first reported case of community transmission in Arizona descended from the Washington state outbreak that was discovered in late February. Notably, none of the observed transmission clusters are epidemiologically linked to the original travel-related case in the state, suggesting successful early isolation and quarantine.
 
-### Introductions likely mostly resulted from domestic travel
-The first reported case of “community” transmission occurred in Arizona in early March descended from the Washington state outbreak that was discovered in February. More than 80% of the SARS-CoV-2 genome sequences from Arizona COVID-19 cases descended from at least 11 separate lineages that were initially circulating widely in Europe, and by travel have since dominated the outbreak throughout the U.S. None of the observed transmission clusters are epidemiologically linked to the original travel-related case in Arizona, suggesting successful early isolation and quarantine.
+# [Introductions likely mostly resulted from domestic travel.](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
 
+The first reported case of “community” transmission occurred in Arizona in early March and descended from the Washington state outbreak that was discovered in February. More than 80% of the SARS-CoV-2 genome sequences from Arizona COVID-19 cases descended from at least 11 separate lineages that were initially circulating widely in Europe, and by travel have since dominated the outbreak throughout the U.S. None of the observed transmission clusters are epidemiologically linked to the original travel-related case in Arizona, suggesting successful early isolation and quarantine.
+
+```auspiceMainDisplayMarkdown
+![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-1.png)
 ```
 
 # [COVID-19 Level in AZ is “Widespread”](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
@@ -65,14 +61,13 @@ On March 26th, the Arizona Department of Health Services updated the community t
  
 The Nextstrain dataset shows XXX genomes from XX counties reporting COVID-19 cases from up to March 26th. Colors indicate the strain of virus, indicating that multiple lineages spread among several counties within AZ.
 
-
 ```auspiceMainDisplayMarkdown
 ![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-2.png)
 ```
 
 # [An Early Pandemic Analysis of SARS-CoV-2 Population Structure and Dynamics in Arizona](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
 
-Initial findings reported by the Arizona COVID-19 Genomics Union (ACGU) suggest that the state experienced no new COVID-19 cases after the first reported case in late January, until at least 11 distinct incursions occurred between mid-February and early April. The published results appear in the scientific journal mBio. This study was supported by: The NARBHA Institute, Flinn Foundation, The Virginia G. Piper Charitable Trust, Blue Cross and Blue Shield of Arizona, the National Institutes of Health, the David and Lucile Packard Foundation, the University of Arizona College of Science and Office of Research Innovation and Impact, and BIO5 Institute.
+nitial findings reported by the Arizona COVID-19 Genomics Union (ACGU) suggest that the state experienced no new COVID-19 cases after the first reported case in late January, until at least 11 distinct incursions occurred between mid-February and early April. The published results appear in the scientific journal mBio. This [study](https://tgen.us10.list-manage.com/track/click?u=6b0e128788a10661a1fb2d549&id=f3e6925358&e=81c3146932) was supported by: The NARBHA Institute, Flinn Foundation, The Virginia G. Piper Charitable Trust, Blue Cross and Blue Shield of Arizona, the National Institutes of Health, the David and Lucile Packard Foundation, the University of Arizona College of Science and Office of Research Innovation and Impact, and BIO5 Institute.
 
 # [Outbreak of COVID-19 in a Linked Group Home Setting](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
 
@@ -99,7 +94,11 @@ Coming Soon
 
 # [Rapid Transmission of SARS-CoV-2 in Northern Arizona Tribal Community with Low Mortality](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst?c=gt-S_245&m=div&p=full)
 
-- Rapid Transmission of SARS-CoV-2 in Northern Arizona Tribal Community with Low Mortality
+- Tribal introduction story / H245Y (T67I) and R209I mutations
+
+Although [introduction of SARS-CoV-2 in AZ was likely in February](https://mbio.asm.org/content/11/5/e02107-20), COVID-19 didn’t hit a mid-sized (population = 18K) AZ Native American (NA) community until over a month later. This NA reservation has over 13,500 members living in nine main communities; the capital and largest community has a population of about 3,000 residents. Their first COVID-19 case was diagnosed on April 1, and they shortly thereafter experienced the highest rate of infection documented to date (25% of the population on the reservation). As of August 2020, it is estimated that more than one-eighth of the residents have tested positive for COVID-19, with more than 2,200 reported cases. The majority of the testing has been conducted in the context of contact investigations versus widespread community testing, which may contribute to the high positivity rate. However, with 34 deaths, the community has a case fatality rate of ~1.4%, one of the lowest recorded to date – a remarkable outcome, considering the high comorbidity burden and multi-generational living conditions typical of NA communities. The low fatality rates may be driven in large part by [the successful on-ground rapid test and treat interventions from local health workers](https://www.nejm.org/doi/full/10.1056/NEJMc2023540).
+ 
+This tribe’s index case (sample collected 3/29) was a 47-year old health care employee that had an onset of fever and cough on March 25, a history of recent travel to Phoenix, AZ, but continued to work despite being reportedly symptomatic. Genomic analysis shows Patient A1 seeded the outbreak comprising the majority of cases on this reservation, and mostly exclusive to this reservation, illustrated by the monophyletic clade defined by an amino acid change in the spike protein, H245Y. All identified cases in April and most in May from this rural AZ community make up this clade illustrating rapid spread of a single clone.
 
 # [Summary](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
 
@@ -107,17 +106,29 @@ Return to timeline - highlight uniqueness of AZ epi circumstances - anti-seasona
  
 Our data tell us that the initial Arizona case with travel to China in January did not lead to sustained local transmission, and that multiple introductions (>12) of the virus occurred from multiple countries and states, some of which contributed to significant transmission in Arizona. Mutations have been found that may lead to increased transmission and decreased virulence.
 
-
 # [Public Health Significance](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
 
 Using genomic epidemiology, we have a better understanding of the circulation of strains of the SARS-CoV-2 virus among Arizona communities, which is critical to guide an effective public health response to curb the spread of the virus now and in the future. Whole genome sequencing of the viral genome from infected persons’ clinical specimens, along with information about the collection of the specimens (when and where) allows for phylogenetic (ie, family tree) reconstruction to track the circulation and transmission of the virus locally and globally. We use this data to understand viral movement, identify origins of introductions of different COVID strains to the region, locate hot spots of local transmission and clusters of disease, and possibly determine the source of infection. We can also study mutations in the viral genome,  and their potential for causing increased transmission or virulence.
 
 # [Methodology](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
 
-```auspiceMainDisplayMarkdown
-```
+Samples positive for Sars-CoV2 (confirmed by RT-PCR) were extracted using the MagMax Viral Pathogen II kit from ThermoFisher. Extracted RNA was prepared for either whole meta-transcriptome sequencing or tiled amplicon sequencing. Whole meta-transcriptome sequencing was performed using either Tecan’s Ovation SoLo RNA Seq kit, or TakaraBio’s SMART-Seq Stranded kit, both according to manufacturer’s specifications. Tiled amplicon sequencing was performed using the ARTIC protocol (v1) by Josh Quick, and adapter addition was done using Seqwell’s plexWell kit, or Illumina’s DNA-prep kit, both according to manufacturer’s instructions for small amplicons. Sequencing was done on a NextSeq 550 with v2.5 chemistry, or a MiSeq with V3 chemistry.
 
-# [Acknowledgements](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
+# [Authors/Acknowledgements/Affiliations](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
+
+- TGen
+  - Dave Engelthaler
+  - Jolene Bowers
+  - Darrin Lemmer
+  - Megan Folkerts
+  - Chris French
+  - Hayley Yaglom
+  - Danielle Vasquez
+  - Ashlyn Pfeiffer
+  - Amber Jones
+  - Adina Doyle
+  - Krystal Sheridan
+
 
 ```auspiceMainDisplayMarkdown
 ![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-tgen.png)
