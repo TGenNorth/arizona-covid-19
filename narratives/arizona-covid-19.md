@@ -133,7 +133,6 @@ Samples positive for Sars-CoV2 (confirmed by RT-PCR) were extracted using the Ma
 ```auspiceMainDisplayMarkdown
 ![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-tgen.png)
 ![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-nau.png)
-![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-pmi.png)
 ![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-ua.png)
 ![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-asu.png)
 ```
