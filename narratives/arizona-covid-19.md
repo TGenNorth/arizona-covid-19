@@ -16,7 +16,7 @@ COVID-19 has hugely impacted Arizona, sweeping through urban areas, tribal commu
 
 ```auspiceMainDisplayMarkdown
 # Arizona COVID-19 Timeline
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" height="90%">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" max-width=100% max-height=100%;>
 ```
 
 # [Arizona SARS-CoV-2 Genomes in a Global Context](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst?d=tree&f_division=Arizona&p=full)
