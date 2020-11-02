@@ -38,15 +38,15 @@ COVID-19 came into Arizona from many different places, as demonstrated by this p
 
 This build includes a dataset of 3010 SARS-CoV-2 genomes sequenced from COVID-19 positive patient specimens from across Arizona. Positive specimens came from the TGen North Clinical Laboratory, Arizona State Public Health Laboratory, and Sonora Quest Laboratory between March and August. The Arizona genomes are shown here with a set of 532 genomes from around the world shared in the [GISAID](https://www.gisaid.org/) database.
 
-# [Page 4](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst?d=tree&f_division=Arizona&p=full&s=TG268188::Coconino::B.2::0.99::20-5463596::2020-03-17)
+# [Arizona’s First COVID-19 Cases were Successfully Contained](https://nextstrain.org/community/tgennorth/arizona-covid-19/?c=location&p=full&s=USA-AZ1-2020)
 
-COVID-19 hit Arizona on January 22, 2020, when a 26-year-old male presented to a clinic in Maricopa County, reporting a two-day history of nonproductive cough. He denied fever and other symptoms at presentation. He had returned from travel to China (including Wuhan City) three days prior to presentation, and reported having contact with one person with cough and fever while in China. This case was rapidly quarantined. Despite his specimens testing positive at  the CDC eighteen days after diagnosis, no SARS-CoV-2 transmission was detected among ten high-risk contacts, including one intimate contact, based on serial SARS-CoV-2 testing. The CDC [published a genome sequence](https://www.ncbi.nlm.nih.gov/nuccore/MN997409.1) for the sample collected from this initial case. 
- 
-Genomic analysis by the ACGU supports the public health contact tracing conclusions: Continued genomic surveillance shows no evidence that this first case resulted in cryptic (undetected) transmission, as no strains of virus collected later in Arizona descended from this lineage. 
- 
-**_Rapid public health response efforts, including quarantining, testing, and contact tracing, prevented this case from potentially igniting a much earlier outbreak in Arizona_**
+COVID-19 hit Arizona on January 22, 2020, when a 26-year-old male presented to a clinic in Maricopa County, reporting a two-day history of nonproductive cough. He denied fever and other symptoms at presentation. He had returned from travel to China (including Wuhan City) three days prior to presentation, and reported having contact with one person with cough and fever while in China. This case was rapidly quarantined. Despite this man testing positive up to eighteen days after diagnosis, no SARS-CoV-2 transmission was detected among ten high-risk contacts, including one intimate contact, based on serial testing.
 
-# [Evidence of Multiple Introductions of SARS-CoV-2 into Arizona in February and March, Mostly from Domestic Travel](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
+The CDC [published a genome sequence](https://www.ncbi.nlm.nih.gov/nuccore/MN997409.1) for the sample collected from this initial case. Genomic analysis by the ACGU shows this virus strain is closely related to others from Asia (as shown), and supports the public health contact tracing conclusions that no transmission of this initial case happened, as no strains of virus collected later in Arizona descend from this lineage.
+
+<b>Rapid public health response efforts, including quarantining, testing, and contact tracing, prevented this case from potentially igniting a much earlier outbreak in Arizona.</b>
+
+# [page 5](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
 
 # [SARS-CoV-2 was introduced into Arizona at least twelve times by early April](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
 
