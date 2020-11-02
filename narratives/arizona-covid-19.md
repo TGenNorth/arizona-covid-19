@@ -1,30 +1,44 @@
 ---
-title: "AZ-Strain: Genomic Epidemiology of SARS-CoV-2 in Arizona<br/><b>Maintained by the AZ COVID Genomics Union (ACGU)</b>"
+title: "AZ-Strain: Genomic Epidemiology of SARS-CoV-2 in Arizona"
 authorLinks: "https://www.tgen.org/patients/pathogen-microbiome/"
 affiliations: "ACGU, TGen"
 date: "2020 Sep 14"
 dataset: "https://nextstrain.org/community/tgennorth/arizona-covid-19/7-13-20?d=map"
-abstract: "Arizona COVID Genomics Union (ACGU) is a collaboration of scientists from the Translational Genomics Research Institute (TGen), Northern Arizona University (NAU), University of Arizona (UArizona), and Arizona State University (ASU).
+abstract: "Maintained by the AZ COVID Genomics Union (ACGU).
 
-From among the 200,000+ positive cases in Arizona, TGen—along with ASU and UArizona—has so far sequenced SARS-CoV-2 genomes from over 3,000 COVID-19 positive samples, making this sequencing effort one of the most extensive in the nation. The ACGU uses state-of-the-art sequencers, custom computational analysis workflows, and supercomputers to determine the sequence of the SARS-CoV-2 RNA genome, and also capitalizes on occurrences of normal mutations in the virus to reconstruct its evolutionary history. By comparing mutations observed in Arizona to those present in strains circulating across the globe, they can determine when and from where the virus was introduced to Arizona. Furthermore, by comparing strains within Arizona, scientists can also map the virus' spread within and among Arizona’s communities."
+The Arizona COVID-19 Genomics Union (ACGU) uses state-of-the-art sequencers and custom computational analysis workflows to sequence patients’ SARS-CoV-2 RNA genomes and to track the mutations in the virus to map its spread. By comparing mutations observed in Arizona to those present in strains circulating across the globe, we are determining when and from where the virus is coming into Arizona. By comparing strains within Arizona, the ACGU is also mapping the virus' transmission within and among Arizona’s communities.
+
+From among the 240,000+ positive cases in Arizona, the ACGU has sequenced SARS-CoV-2 genomes from over 5,000 COVID-19 positive samples, making this sequencing effort one of the most extensive in the nation.
+
+The ACGU is a collaboration of scientists from the Translational Genomics Research Institute (TGen), Northern Arizona University (NAU), University of Arizona (UArizona), and Arizona State University (ASU).
 ---
 
-# [SARS-CoV-2 in Arizona](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
+# [Arizona’s COVID-19 Timeline](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
 
-COVID-19 has hugely impacted Arizona, sweeping through urban areas, tribal communities, correctional facilities, and assisted living facilities over the past nine months. Arizona detected its first COVID-19 case on January 26th, but it was not until late March that state public health officials reported widespread community transmission. Throughout June and July, hospitalizations were at an all-time high and infection rates among individuals aged 20–44 skyrocketed. Furthermore, Arizona’s case rate per 100,000 was almost double what was reported for the United States. As of September 15, 2020, Arizona has reported over 209,200 cases and 5,340 deaths. The Arizona Department of Health Services maintains a [COVID-19 Data Dashboard](https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/covid-19/dashboards/index.php), which is updated daily.
+COVID-19 has hugely impacted Arizona over the past nine months, sweeping through urban and rural areas, tribal nations, and correctional and healthcare facilities.
+
+Arizona detected its first COVID-19 case on January 26, but it was not until late March that state public health officials reported widespread community transmission. Throughout June and July, hospitalizations were at an all-time high, infection rates among individuals aged 20–44 skyrocketed, and Arizona’s case rate per 100,000 was almost double what was reported for the United States. As of October 27, 2020, Arizona has reported over 240,000 cases and 5,800 deaths.
+
+The Arizona Department of Health Services maintains a [COVID-19 Data Dashboard](https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/covid-19/dashboards/index.php), updated daily.
+
+* [Arizona’s first COVID-19 cases were successfully contained](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=3)
+* [SARS-CoV-2 is introduced into Arizona](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=4)
+* [COVID-19 is declared a global pandemic by the WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/interactive-timeline#event-71)
+* [COVID-19 is declared “Widespread” in ARizona](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=7)
+* [ACGU published analysis of early pandemic in Arizona](https://mbio.asm.org/content/11/5/e02107-20)
+* [Arizona’s latest genomic epidemiology story](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=11)
 
 ```auspiceMainDisplayMarkdown
-# Arizona COVID-19 Timeline
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" width=75%>
 ```
 
-# [Arizona SARS-CoV-2 Genomes in a Global Context](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst?d=tree&f_division=Arizona&p=full)
+# [Arizona SARS-CoV-2 Genomes in a Global Context](https://nextstrain.org/community/tgennorth/arizona-covid-19/?c=location&p=full)
 
-This build includes a dataset of 812 SARS-CoV-2 genomes sequenced from COVID-19 positive patients from across Arizona. Testing was conducted at TGen North Clinical Laboratory, Arizona State Public Health Laboratory, and Sonora Quest Laboratory between March XX and June XX.
- 
-The Arizona genomes are shown here with a global dataset of approximately XX genomes shared in the GSAID database. A majority of the Arizona samples fall within the B1 lineage, which is the dominating North American strain.
+COVID-19 came into Arizona from many different places, as demonstrated by this phylogenetic tree that displays the relatedness of different strains of the SARS-CoV-2 virus. The strains that are now circulating in Arizona are representative of strains from around the world; however, the vast majority of Arizona’s cases are from strain types shared with other U.S. states or European countries.
 
-# [Arizona’s First COVID-19 Cases were Successfully Contained](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst?d=tree&f_division=Arizona&p=full&s=TG268188::Coconino::B.2::0.99::20-5463596::2020-03-17)
+This build includes a dataset of 3010 SARS-CoV-2 genomes sequenced from COVID-19 positive patient specimens from across Arizona. Positive specimens came from the TGen North Clinical Laboratory, Arizona State Public Health Laboratory, and Sonora Quest Laboratory between March and August. The Arizona genomes are shown here with a set of 532 genomes from around the world shared in the [GISAID](https://www.gisaid.org/) database.
+
+# [Page 4](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst?d=tree&f_division=Arizona&p=full&s=TG268188::Coconino::B.2::0.99::20-5463596::2020-03-17)
 
 COVID-19 hit Arizona on January 22, 2020, when a 26-year-old male presented to a clinic in Maricopa County, reporting a two-day history of nonproductive cough. He denied fever and other symptoms at presentation. He had returned from travel to China (including Wuhan City) three days prior to presentation, and reported having contact with one person with cough and fever while in China. This case was rapidly quarantined. Despite his specimens testing positive at  the CDC eighteen days after diagnosis, no SARS-CoV-2 transmission was detected among ten high-risk contacts, including one intimate contact, based on serial SARS-CoV-2 testing. The CDC [published a genome sequence](https://www.ncbi.nlm.nih.gov/nuccore/MN997409.1) for the sample collected from this initial case. 
  
