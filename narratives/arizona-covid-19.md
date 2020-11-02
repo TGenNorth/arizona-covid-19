@@ -67,11 +67,11 @@ The introductions of SARS-CoV-2 into Arizona that resulted in community transmis
 More than 80% of Arizona’s first SARS-CoV-2 genomes descended from strains that were initially circulating widely in Europe but have since dominated the outbreak in the U.S. In addition, the first reported case of community transmission in Arizona descended from the Washington state outbreak that was discovered in late February.
 
 ```auspiceMainDisplayMarkdown
-![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-5.png)
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-5.png" width=75%>
 
 **First introductions were as early as mid-February.** Molecular clock analyses back-calculate the date that each lineage of virus spreading in Arizona (color-coded above) originated from one individual, i.e., the person that carried the virus into the state. The five major early lineages of virus in Arizona were estimated to be carried in in mid-February to late March.
 
-![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-6.png)
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-6.png" width=75%>
 
 **First introductions were mostly from domestic travel.** For six of the earliest strain types of SARS-CoV-2 in Arizona (A.1 to B.1.29), those same strain types were found in other parts of North America (blue) and Europe (gray). This shows that the introductions of COVID-19 to Arizona likely came with people traveling within the U.S. or from Europe.
 ```
