@@ -10,7 +10,7 @@ The Arizona COVID-19 Genomics Union (ACGU) uses state-of-the-art sequencers and 
 
 From among the 240,000+ positive cases in Arizona, the ACGU has sequenced SARS-CoV-2 genomes from over 5,000 COVID-19 positive samples, making this sequencing effort one of the most extensive in the nation.
 
-The ACGU is a collaboration of scientists from the Translational Genomics Research Institute (TGen), Northern Arizona University (NAU), University of Arizona (UArizona), and Arizona State University (ASU).
+The ACGU is a collaboration of scientists from the Translational Genomics Research Institute (TGen), Northern Arizona University (NAU), University of Arizona (UArizona), and Arizona State University (ASU)."
 ---
 
 # [Arizona’s COVID-19 Timeline](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
@@ -21,11 +21,18 @@ Arizona detected its first COVID-19 case on January 26, but it was not until lat
 
 The Arizona Department of Health Services maintains a [COVID-19 Data Dashboard](https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/covid-19/dashboards/index.php), updated daily.
 
+* [Arizona’s first COVID-19 cases were successfully contained](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=3)
+* [SARS-CoV-2 is introduced into Arizona](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=4)
+* [COVID-19 is declared a global pandemic by the WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/interactive-timeline#event-71)
+* [COVID-19 is declared “Widespread” in ARizona](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=7)
+* [ACGU published analysis of early pandemic in Arizona](https://mbio.asm.org/content/11/5/e02107-20)
+* [Arizona’s latest genomic epidemiology story](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=11)
+
 ```auspiceMainDisplayMarkdown
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" width=75%>
 ```
 
-# [Arizona SARS-CoV-2 Genomes in a Global Context](https://nextstrain.org/community/tgennorth/arizona-covid-19?c=location&p=full)
+# [Arizona SARS-CoV-2 Genomes in a Global Context](https://nextstrain.org/community/tgennorth/arizona-covid-19/?c=location&p=full)
 
 COVID-19 came into Arizona from many different places, as demonstrated by this phylogenetic tree that displays the relatedness of different strains of the SARS-CoV-2 virus. The strains that are now circulating in Arizona are representative of strains from around the world; however, the vast majority of Arizona’s cases are from strain types shared with other U.S. states or European countries.
 
