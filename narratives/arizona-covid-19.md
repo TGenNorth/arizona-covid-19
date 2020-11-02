@@ -44,11 +44,44 @@ COVID-19 hit Arizona on January 22, 2020, when a 26-year-old male presented to a
 
 The CDC [published a genome sequence](https://www.ncbi.nlm.nih.gov/nuccore/MN997409.1) for the sample collected from this initial case. Genomic analysis by the ACGU shows this virus strain is closely related to others from Asia (as shown), and supports the public health contact tracing conclusions that no transmission of this initial case happened, as no strains of virus collected later in Arizona descend from this lineage.
 
-<b>Rapid public health response efforts, including quarantining, testing, and contact tracing, prevented this case from potentially igniting a much earlier outbreak in Arizona.</b>
+**_Rapid public health response efforts, including quarantining, testing, and contact tracing, prevented this case from potentially igniting a much earlier outbreak in Arizona._**
 
-# [page 5](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
+# [An Early Pandemic Analysis of SARS-CoV-2 Population Structure and Dynamics in Arizona](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
 
-# [SARS-CoV-2 was introduced into Arizona at least twelve times by early April](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
+Findings reported by the ACGU show that the state experienced no COVID-19 cases resulting from transmission from the first reported case in late January. However, at least 11 distinct incursions occurred, with introductions between mid-February and late March. The [published results](https://tgen.us10.list-manage.com/track/click?u=6b0e128788a10661a1fb2d549&id=f3e6925358&e=81c3146932) appear in the scientific journal mBio. This [study](https://tgen.us10.list-manage.com/track/click?u=6b0e128788a10661a1fb2d549&id=f3e6925358&e=81c3146932) was supported by: The NARBHA Institute, Flinn Foundation, The Virginia G. Piper Charitable Trust, Blue Cross and Blue Shield of Arizona, the National Institutes of Health, the David and Lucile Packard Foundation, the University of Arizona College of Science and Office of Research Innovation and Impact, and the BIO5 Institute.
+
+**_TODO: add mBio map_**
+
+# [SARS-CoV-2 introductions into Arizona](https://nextstrain.org/community/tgennorth/arizona-covid-19/gst)
+
+## SARS-CoV-2 was introduced at least twelve times
+
+Genomic analyses show early Arizona strains belong to 11 distinct lineages (i.e. strain types) and/or sublineages. None of these lineages were unique to Arizona; they have all been documented in other parts of the U.S. and, in most cases, in other countries.
+
+The geographic ubiquity of the major SARS-CoV-2 lineages clearly demonstrates how frequently this virus has moved around the world. Given these observations and the timing and size of the Arizona outbreak in March, the number of distinct lineages (12, including the first case in January) is a conservative estimate for the number of independent introductions of SARS-CoV-2 into Arizona: the state likely experienced more than 12 introductions, as several belong to the same viral lineage and are thus indistinguishable from other potential introductions.
+
+## First introductions resulting in community transmission were in mid- to late February
+
+The introductions of SARS-CoV-2 into Arizona that resulted in community transmission were in February and March, according to ACGU’s molecular clock analysis, which calculates the dates of transmission events based on the number of mutations present. (A molecular clock assumes that mutations happen at a constant rate, so the number of mutational differences between two genomes tells how much time has passed since they originated from the same person.)
+
+## Introductions mostly resulted from domestic travel
+
+More than 80% of Arizona’s first SARS-CoV-2 genomes descended from strains that were initially circulating widely in Europe but have since dominated the outbreak in the U.S. In addition, the first reported case of community transmission in Arizona descended from the Washington state outbreak that was discovered in late February.
+
+```auspiceMainDisplayMarkdown
+![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-5.png)
+
+**First introductions were as early as mid-February.** Molecular clock analyses back-calculate the date that each lineage of virus spreading in Arizona (color-coded above) originated from one individual, i.e., the person that carried the virus into the state. The five major early lineages of virus in Arizona were estimated to be carried in in mid-February to late March.
+
+![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-6.png)
+
+**First introductions were mostly from domestic travel.** For six of the earliest strain types of SARS-CoV-2 in Arizona (A.1 to B.1.29), those same strain types were found in other parts of North America (blue) and Europe (gray). This shows that the introductions of COVID-19 to Arizona likely came with people traveling within the U.S. or from Europe.
+```
+
+
+
+
+
 
 Multiple distinct SARS-CoV-2 lineages co-circulated in Arizona; genomic analyses highlight eleven distinct lineages and/or sublineages in the state by early April. None of these lineages were unique to Arizona; they have all been documented in other parts of the United States and, in most cases, in countries around the world. In fact, the geographic ubiquity of the major SARS-CoV-2 lineages, along with the common observation of identical virus genomes sampled in multiple US states and in other countries and continents, clearly demonstrate how frequently this virus has been moved among locales. Given the timing and size of the Arizona outbreak in March, it is unlikely that, relative to outbreaks in other locations, any of these eleven lineages arose within Arizona. Therefore, the number of observed distinct lineages (twelve, including AZ1) represents a conservative estimate for the number of independent introductions of SARS-CoV-2 into Arizona.
 
