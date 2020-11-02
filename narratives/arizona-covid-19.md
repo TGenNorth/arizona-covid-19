@@ -21,12 +21,12 @@ Arizona detected its first COVID-19 case on January 26, but it was not until lat
 
 The Arizona Department of Health Services maintains a [COVID-19 Data Dashboard](https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/covid-19/dashboards/index.php), updated daily.
 
-- [Arizona’s first COVID-19 cases were successfully contained](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=3)
-- [SARS-CoV-2 is introduced into Arizona](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=4)
-- [COVID-19 is declared a global pandemic by the WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/interactive-timeline#event-71)
-- [COVID-19 is declared “Widespread” in ARizona](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=7)
-- [ACGU published analysis of early pandemic in Arizona](https://mbio.asm.org/content/11/5/e02107-20)
-- [Arizona’s latest genomic epidemiology story](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=11)
+<p>[Arizona’s first COVID-19 cases were successfully contained](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=3)</p>
+<p>[SARS-CoV-2 is introduced into Arizona](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=4)</p>
+<p>[COVID-19 is declared a global pandemic by the WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/interactive-timeline#event-71)</p>
+<p>[COVID-19 is declared “Widespread” in ARizona](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=7)</p>
+<p>[ACGU published analysis of early pandemic in Arizona](https://mbio.asm.org/content/11/5/e02107-20)</p>
+<p>[Arizona’s latest genomic epidemiology story](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=11)</p>
 
 ```auspiceMainDisplayMarkdown
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" width=75%>
