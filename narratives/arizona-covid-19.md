@@ -1,11 +1,10 @@
 ---
-title: "AZ-Strain: Genomic Epidemiology of SARS-CoV-2 in Arizona: Maintained by the AZ COVID Genomics Union (ACGU)"
-authors: "Dave Engelthaler, Jolene Bowers, Darrin Lemmer, Megan Folkerts, Hayley Yaglom, Daneille Vasquez, Ashlyn Pfeiffer, Chris French" 
+title: "AZ-Strain: Genomic Epidemiology of SARS-CoV-2 in Arizona<br/><b>Maintained by the AZ COVID Genomics Union (ACGU)</b>"
 authorLinks: "https://www.tgen.org/patients/pathogen-microbiome/"
 affiliations: "ACGU, TGen"
 date: "2020 Sep 14"
 dataset: "https://nextstrain.org/community/tgennorth/arizona-covid-19/7-13-20?d=map"
-abstract: "iArizona COVID Genomics Union (ACGU) is a collaboration of scientists from the Translational Genomics Research Institute (TGen), Northern Arizona University (NAU), University of Arizona (UArizona), and Arizona State University (ASU).
+abstract: "Arizona COVID Genomics Union (ACGU) is a collaboration of scientists from the Translational Genomics Research Institute (TGen), Northern Arizona University (NAU), University of Arizona (UArizona), and Arizona State University (ASU).
 
 From among the 200,000+ positive cases in Arizona, TGen—along with ASU and UArizona—has so far sequenced SARS-CoV-2 genomes from over 3,000 COVID-19 positive samples, making this sequencing effort one of the most extensive in the nation. The ACGU uses state-of-the-art sequencers, custom computational analysis workflows, and supercomputers to determine the sequence of the SARS-CoV-2 RNA genome, and also capitalizes on occurrences of normal mutations in the virus to reconstruct its evolutionary history. By comparing mutations observed in Arizona to those present in strains circulating across the globe, they can determine when and from where the virus was introduced to Arizona. Furthermore, by comparing strains within Arizona, scientists can also map the virus' spread within and among Arizona’s communities."
 ---
