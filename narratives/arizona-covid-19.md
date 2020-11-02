@@ -46,11 +46,9 @@ The CDC [published a genome sequence](https://www.ncbi.nlm.nih.gov/nuccore/MN997
 
 **_Rapid public health response efforts, including quarantining, testing, and contact tracing, prevented this case from potentially igniting a much earlier outbreak in Arizona._**
 
-# [An Early Pandemic Analysis of SARS-CoV-2 Population Structure and Dynamics in Arizona](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
+# [An Early Pandemic Analysis of SARS-CoV-2 Population Structure and Dynamics in Arizona](https://nextstrain.org/community/tgennorth/arizona-covid-19/mbio)
 
 Findings reported by the ACGU show that the state experienced no COVID-19 cases resulting from transmission from the first reported case in late January. However, at least 11 distinct incursions occurred, with introductions between mid-February and late March. The [published results](https://tgen.us10.list-manage.com/track/click?u=6b0e128788a10661a1fb2d549&id=f3e6925358&e=81c3146932) appear in the scientific journal mBio. This [study](https://tgen.us10.list-manage.com/track/click?u=6b0e128788a10661a1fb2d549&id=f3e6925358&e=81c3146932) was supported by: The NARBHA Institute, Flinn Foundation, The Virginia G. Piper Charitable Trust, Blue Cross and Blue Shield of Arizona, the National Institutes of Health, the David and Lucile Packard Foundation, the University of Arizona College of Science and Office of Research Innovation and Impact, and the BIO5 Institute.
-
-**_TODO: add mBio map_**
 
 # [SARS-CoV-2 introductions into Arizona](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
 
