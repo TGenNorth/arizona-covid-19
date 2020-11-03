@@ -38,7 +38,7 @@ COVID-19 came into Arizona from many different places, as demonstrated by this p
 
 This build includes a dataset of 3010 SARS-CoV-2 genomes sequenced from COVID-19 positive patient specimens from across Arizona. Positive specimens came from the TGen North Clinical Laboratory, Arizona State Public Health Laboratory, and Sonora Quest Laboratory between March and August. The Arizona genomes are shown here with a set of 532 genomes from around the world shared in the [GISAID](https://www.gisaid.org/) database.
 
-# [Arizona’s First COVID-19 Cases were Successfully Contained](https://nextstrain.org/community/tgennorth/arizona-covid-19/?c=location&p=full&s=USA-AZ1-2020&d=map,tree)
+# [Arizona’s First COVID-19 Cases were Successfully Contained](https://nextstrain.org/community/tgennorth/arizona-covid-19/AZ1?c=az1&d=tree&p=full)
 
 COVID-19 hit Arizona on January 22, 2020, when a 26-year-old male presented to a clinic in Maricopa County, reporting a two-day history of nonproductive cough. He denied fever and other symptoms at presentation. He had returned from travel to China (including Wuhan City) three days prior to presentation, and reported having contact with one person with cough and fever while in China. This case was rapidly quarantined. Despite this man testing positive up to eighteen days after diagnosis, no SARS-CoV-2 transmission was detected among ten high-risk contacts, including one intimate contact, based on serial testing.
 
@@ -82,7 +82,7 @@ On March 26, the Arizona Department of Health Services updated the community tra
  
 **Due to availability of samples for sequencing, the number of genomes is not representative of the case counts in each county.**
 
-# [Genomic Epidemiology of a COVID-19 Outbreak Among Residents and Staff Linked to a Developmentally Disabled Adult Group Home](https://nextstrain.org/community/tgennorth/arizona-covid-19/?c=gt-S_5)
+# [Genomic Epidemiology of a COVID-19 Outbreak Among Residents and Staff Linked to a Developmentally Disabled Adult Group Home](https://nextstrain.org/community/tgennorth/arizona-covid-19/Hozhoni?c=gt-S_5&d=tree&p=full)
 
 Local public health officials responded to an outbreak of COVID-19 among staff and residents associated with a multi-residential group home that provides care for adults with intellectual and developmental disabilities. Samples were collected at 16 facilities; for four houses located geographically within seven miles of each other, all residents tested positive. In the remaining 12 houses where samples were collected, all residents tested negative.
 
