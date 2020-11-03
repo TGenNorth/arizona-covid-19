@@ -82,7 +82,7 @@ On March 26, the Arizona Department of Health Services updated the community tra
  
 **Due to availability of samples for sequencing, the number of genomes is not representative of the case counts in each county.**
 
-# [Genomic Epidemiology of a COVID-19 Outbreak Among Residents and Staff Linked to a Developmentally Disabled Adult Group Home](https://nextstrain.org/community/tgennorth/arizona-covid-19/Hozhoni?c=gt-S_5&d=tree&p=full)
+# [Genomic Epidemiology of a COVID-19 Outbreak Among Residents and Staff Linked to a Developmentally Disabled Adult Group Home](https://nextstrain.org/community/tgennorth/arizona-covid-19/Hozhoni?c=gt-S_5&d=tree&m=div&p=full)
 
 Local public health officials responded to an outbreak of COVID-19 among staff and residents associated with a multi-residential group home that provides care for adults with intellectual and developmental disabilities. Samples were collected at 16 facilities; for four houses located geographically within seven miles of each other, all residents tested positive. In the remaining 12 houses where samples were collected, all residents tested negative.
 
