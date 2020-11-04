@@ -175,7 +175,7 @@ The ACGU would like to gratefully acknowledge the tireless efforts of Arizona’
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-tgen.png" width="250px">
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-nau.png" width="250px">
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-ua.png" width="250px">
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-asu.upng" width="250px">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-asu.png" width="250px">
 ```
 
 
