@@ -71,15 +71,11 @@ The first reported case of community transmission in Arizona descended from the 
 Figures from [Ladner et al. 2020](https://mbio.asm.org/content/11/5/e02107-20).
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-5.png" max-height=300px max-width=50%>
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-5.png" max-height="300px" max-width="50%">
 
 **First introductions were as early as mid-February**. Molecular clock analyses back-calculate the date that each lineage of virus spreading in Arizona (color-coded above) originated from one individual, i.e., the person that carried the virus into the state. The five major early lineages of virus in Arizona were estimated to be carried in in mid-February to late March.
 
-     
-
-     
-
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-6.png" padding-top=50px max-height=300px max-width=50%>
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-6.png" padding-top="50px" max-height="300px" max-width="50%">
 
 **First introductions were mostly from domestic travel**. For six of the earliest strain types of SARS-CoV-2 in Arizona (A.1 to B.1.29), those same strain types were found in other parts of North America (blue) and Europe (gray). This demonstrates that the introductions of COVID-19 to Arizona likely came with people traveling within the U.S. or from Europe.
 ```
