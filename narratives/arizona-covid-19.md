@@ -172,10 +172,10 @@ Samples positive for SARS-CoV-2 (confirmed by RT-PCR) were extracted using the M
 The ACGU would like to gratefully acknowledge the tireless efforts of Arizona’s public health officials and healthcare workers, and to thank the other laboratories around the world submitting SARS-CoV-2 genomes to be shared with the scientific community.
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-tgen.png" width="200px">
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-nau.png" width="200px">
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-ua.png" width="200px">
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-.asupng" width="200px">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-tgen.png" width="300px">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-nau.png" width="300px">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-ua.png" width="300px">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-as.upng" width="300px">
 ```
 
 
