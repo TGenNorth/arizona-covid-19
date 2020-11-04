@@ -82,9 +82,9 @@ Figures from [Ladner et al. 2020](https://mbio.asm.org/content/11/5/e02107-20).
 
 # [COVID-19 Level in Arizona is “Widespread”](https://nextstrain.org/community/tgennorth/arizona-covid-19/?c=location&d=map&f_division=Arizona&p=full&r=location)
 
-On March 26, the Arizona Department of Health Services updated the community transmission level of COVID-19 in Arizona to “Widespread”, indicating that more than twelve of the fifteen counties reported COVID-19 cases. This map shows that by March 26, 64 genomes had been sequenced from COVID-19 cases from eleven of those twelve counties.
+On March 26, the Arizona Department of Health Services updated the community transmission level of COVID-19 in Arizona to “Widespread”, indicating that ≥12 of the 15 counties reported COVID-19 cases. This map demonstrates that by March 26, 64 genomes had been sequenced from COVID-19 cases from 11 of those 12 counties.
  
-**Due to availability of samples for sequencing, the number of genomes is not representative of the case counts in each county.**
+**The sizes of the circles, reflective of the number of genomes sequenced, is not representative of the case counts in each county due to availability of samples for sequencing.**
 
 # [Genomic Epidemiology of a COVID-19 Outbreak Among Residents and Staff Linked to a Developmentally Disabled Adult Group Home](https://nextstrain.org/community/tgennorth/arizona-covid-19/Hozhoni?c=gt-S_5&d=tree&m=div&p=full)
 
@@ -92,38 +92,46 @@ Local public health officials responded to an outbreak of COVID-19 among staff a
 
 As expected, all genomes associated with this outbreak are from the lineage of SARS-CoV-2 that is dominant in North America and are very closely related to one another. Two mutations unique to the genomes in this cluster (C13860T and C21575T) confer an L5F amino acid substitution in the SARS-CoV-2 spike protein gene. Whether this mutation confers a phenotype change in the virus is currently unknown.
 
-The epidemiologic and genomic evidence correlate and suggest that infected staff introduced COVID-19 into this setting. Staff initially interacted with residents from multiple homes until COVID-19 was discovered. Enhanced precautions and infection control measures by staff and timely intervention by public health officials curbed this outbreak.
+The epidemiologic and genomic evidence correlate and suggest that infected staff introduced COVID-19 into this setting. Staff initially interacted with residents from multiple homes until COVID-19 was discovered. Enhanced precautions and infection control measures by staff and timely intervention by public health officials likely curbed this outbreak.
 
 Rapid genomic analyses can provide a better understanding of transmission patterns and further guide future public health response efforts.
 
-# [Rapid Transmission of SARS-CoV-2 in an Arizona Tribal Community with Low Mortality](https://nextstrain.org/community/tgennorth/arizona-covid-19/?c=mutation&d=tree&p=full)
+# [Rapid Transmission of SARS-CoV-2 in an Arizona Tribal Community with Low Mortality](https://nextstrain.org/community/tgennorth/arizona-covid-19/mutations?c=mutation&d=tree&p=full)
 
-Although the introduction of [SARS-CoV-2 into Arizona was likely in February](https://mbio.asm.org/content/11/5/e02107-20), COVID-19 didn’t hit a Native American (NA) community until over a month later. This community’s first COVID-19 case was diagnosed on April 1; shortly thereafter, the area experienced the highest rate of infection documented to date (25% of the population on the reservation). However, with 34 deaths, the community has a case fatality rate of ~1.4%, one of the lowest recorded to date—a remarkable outcome, considering the high comorbidity burden and multi-generational living conditions typical of NA communities. The low fatality rates may be driven in large part by the [successful on-ground, rapid test-and-treat interventions from local health workers](https://www.nejm.org/doi/full/10.1056/NEJMc2023540).
+Although the introduction of [SARS-CoV-2 into Arizona was likely in February](https://mbio.asm.org/content/11/5/e02107-20), COVID-19 didn’t hit one of Arizona’s Native American (NA) communities until over a month later. This community’s first COVID-19 case was diagnosed on April 1; shortly thereafter, the area experienced the highest rate of infection documented to date (25% of the population on the reservation). However, with 34 deaths, the community has a case fatality rate of ~1.4%, one of the lowest recorded to date—a remarkable outcome, considering their high comorbidity burden and frequent multi-generational living conditions. The low fatality rates may be driven in large part by the [successful on-ground, rapid test-and-treat interventions from local health workers](https://www.nejm.org/doi/full/10.1056/NEJMc2023540).
  
-This tribe’s index case (sample collected March 29) was a 47-year old healthcare employee that had an onset of fever and cough on March 25. This individual had recently traveled to Phoenix but continued to work. Genomic analysis shows Patient A1 seeded the outbreak comprising the majority of cases on this reservation, and mostly exclusive to this reservation, illustrated by the monophyletic clade defined by an amino acid change in the spike protein H245Y. All identified cases in April and most in May from this rural Arizona community make up this clade, which illustrates the rapid spread of a single clone. 
+This tribe’s index case (sample collected March 29) was a healthcare employee that had an onset of fever and cough on March 25, and a history of recent travel to Phoenix, but continued to work. Genomic analysis shows Patient A1 seeded the outbreak comprising the majority of cases on this reservation, and mostly exclusive to this reservation, illustrated by the monophyletic clade defined by an amino acid change in the spike protein H245Y. All identified cases in April and most in May from this rural Arizona community make up this clade, which illustrates the rapid spread of a single clone. 
  
 A second independent introduction of SARS-CoV-2 into this tribal population is also responsible for significant morbidity. The earliest cases that are epidemiologically linked to this clade are from three individuals that tested positive on May 2nd and May 4, while the first sample in the genomic analysis was collected May 5. The congregation of these individuals with others in a local dwelling likely fueled this outbreak and spread it to many members of a particular tribal neighborhood. Between early May and early June, ~150 cases from this introduction were identified, recognized by the mutation conferring the amino acid change R209I in the virus nucleocapsid gene.
  
-Studies are ongoing to determine if the virus mutations seen in this host population confer any phenotypic effects on the virus.
+Given the high attack rates (often >80%) and low fatality rates (in a high-risk population), studies are ongoing to determine if the virus mutations seen in these two distinct lineages confer any phenotypic effects on the virus.
 
 # [Successful public health containment stories](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
 
 ```auspiceMainDisplayMarkdown
-Under Construction
+Like the first few travel-related cases of COVID-19 in Arizona, several subsequent cases or small clusters were evidently successfully contained due to proper response and public health measures. 
+ 
+Stories to come...
 ```
 # [Stories from the latest analysis](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
 
 ```auspiceMainDisplayMarkdown
-Under Construction
+The ACGU team is currently analyzing data of thousands of Arizona SARS-CoV-2 genomes just off the sequencers. We will update this page as those analyses are completed. Some questions we want to answer with the new data include:
+ 
+- What effect did the lifting of the stay-at-home orders have on the patterns of virus transmission?
+- Are there any phylogenetic patterns reflecting congregations around Memorial Day or July 4th?
+- Can we identify any superspreader events?
+- Are there other potentially phenotypically important mutations that have spread in Arizona communities?
+
 ```
 
 # [Public Health Significance](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
 
-sing genomic epidemiology, we have a better understanding of the circulation of strains of the SARS-CoV-2 virus among Arizona communities, which is critical to guide an effective public health response to curb the spread of the virus now and in the future. Whole genome sequencing of the viral genome from infected persons clinical specimens, along with information about the collection of the specimens (when and where), allow for phylogenetic reconstruction to track the circulation and transmission of the virus locally and globally. We use these data to understand viral movement, identify origins of introductions of different COVID-19 strains to the region, locate hot spots of local transmission and clusters of disease, and possibly determine the source of infection. We can also study mutations in the viral genome and their potential for causing increased transmission or virulence.
+Using genomic epidemiology, we have a better understanding of the circulation of strains of the SARS-CoV-2 virus among Arizona communities, which is critical to guide an effective public health response to track and curb the spread of the virus, now and in the future. Whole genome sequencing of the viral genome from infected persons clinical specimens, along with information about the collection of the specimens (when and where), allow for phylogenetic reconstruction to track the circulation and transmission of the virus locally and globally. We use these data to understand viral movement, identify origins of introductions of different COVID-19 strains to the region, locate hot spots of local transmission and clusters of disease, and possibly determine the source of infection. We can also study mutations in the viral genome and their potential for causing increased transmission or virulence.
 
 # [Methodology](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
 
-Samples positive for SARS-CoV-2 (confirmed by RT-PCR) were extracted using the MagMax Viral Pathogen II kit from ThermoFisher. Extracted RNA was prepared for either whole meta-transcriptome sequencing or tiled amplicon sequencing. Whole meta-transcriptome sequencing was performed using either Tecan’s Ovation SoLo RNA Seq kit, or TakaraBio’s SMART-Seq Stranded kit, both according to manufacturer’s specifications. Tiled amplicon sequencing was performed using the ARTIC protocol (v1) by Josh Quick, and adapter addition was done using Seqwell’s plexWell kit, or Illumina’s DNA-prep kit, both according to manufacturer’s instructions for small amplicons. Sequencing was done on a NextSeq 550 with v2.5 chemistry, or a MiSeq with V3 chemistry.
+Samples positive for SARS-CoV-2 (confirmed by RT-PCR) were extracted using the MagMax Viral Pathogen II kit from ThermoFisher, or the Quick-RNA Viral kit from Zymo (for clinical samples extracted under the FDA’s Emergency Use criteria). Extracted RNA was prepared for either whole meta-transcriptome sequencing or tiled amplicon sequencing. Whole meta-transcriptome sequencing was performed using either Tecan’s Ovation SoLo RNA Seq kit, or TakaraBio’s SMART-Seq Stranded kit, both according to manufacturer’s specifications. Tiled amplicon sequencing was performed using the ARTIC protocol (v1) by Josh Quick, and adapter addition was done using Seqwell’s plexWell kit, or Illumina’s DNA-prep kit, both according to manufacturer’s instructions for small amplicons. Sequencing was done on a NextSeq 550 with v2.5 chemistry and 150 bp paired-end reads, a MiSeq with V3 chemistry and 300 bp paired-end reads, or a MiSeq with V2 chemistry and 250 bp paired-end reads.
 
 # [Authors/Acknowledgements/Affiliations](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
 
@@ -164,10 +172,10 @@ Samples positive for SARS-CoV-2 (confirmed by RT-PCR) were extracted using the M
 The ACGU would like to gratefully acknowledge the tireless efforts of Arizona’s public health officials and healthcare workers, and to thank the other laboratories around the world submitting SARS-CoV-2 genomes to be shared with the scientific community.
 
 ```auspiceMainDisplayMarkdown
-![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-tgen.png)
-![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-nau.png)
-![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-ua.png)
-![images](https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-asu.png)
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-tgen.png" width="200px">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-nau.png" width="200px">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-ua.png" width="200px">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-.asupng" width="200px">
 ```
 
 
