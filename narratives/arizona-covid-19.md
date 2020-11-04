@@ -75,7 +75,7 @@ Figures from [Ladner et al. 2020](https://mbio.asm.org/content/11/5/e02107-20).
 
 **First introductions were as early as mid-February**. Molecular clock analyses back-calculate the date that each lineage of virus spreading in Arizona (color-coded above) originated from one individual, i.e., the person that carried the virus into the state. The five major early lineages of virus in Arizona were estimated to be carried in in mid-February to late March.
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-6.png" width="0" height="50">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
 
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-6.png" width="650">
 
