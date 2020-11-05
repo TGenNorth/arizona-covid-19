@@ -98,7 +98,7 @@ The epidemiologic and genomic evidence correlate and suggest that infected staff
 
 Rapid genomic analyses can provide a better understanding of transmission patterns and further guide future public health response efforts.
 
-# [Rapid Transmission of SARS-CoV-2 in an Arizona Tribal Community with Low Mortality](https://nextstrain.org/community/tgennorth/arizona-covid-19/mutations?c=mutation&d=tree&p=full)
+# [Rapid Transmission of SARS-CoV-2 in an Arizona Tribal Community with Low Mortality](https://nextstrain.org/community/tgennorth/arizona-covid-19?c=mutation&d=tree&p=full)
 
 Although the introduction of [SARS-CoV-2 into Arizona was likely in February](https://mbio.asm.org/content/11/5/e02107-20), COVID-19 didn’t hit one of Arizona’s Native American (NA) communities until over a month later. This community’s first COVID-19 case was diagnosed on April 1; shortly thereafter, the area experienced the highest rate of infection documented to date (25% of the population on the reservation). However, with 34 deaths, the community has a case fatality rate of ~1.4%, one of the lowest recorded to date—a remarkable outcome, considering their high comorbidity burden and frequent multi-generational living conditions. The low fatality rates may be driven in large part by the [successful on-ground, rapid test-and-treat interventions from local health workers](https://www.nejm.org/doi/full/10.1056/NEJMc2023540).
  
