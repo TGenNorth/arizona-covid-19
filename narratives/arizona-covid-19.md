@@ -29,7 +29,7 @@ The Arizona Department of Health Services maintains a [COVID-19 Data Dashboard](
 * [Arizona’s latest genomic epidemiology story](https://nextstrain.org/community/narratives/tgennorth/arizona-covid-19?n=11)
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" max-height="900px" max-width="75%">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" max-height="800" max-width="700">
 ```
 
 # [Arizona SARS-CoV-2 Genomes in a Global Context](https://nextstrain.org/community/tgennorth/arizona-covid-19/?c=location&d=tree&p=full)
