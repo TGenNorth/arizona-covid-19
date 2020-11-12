@@ -41,7 +41,7 @@ The phylogenetic analysis of this cluster correlates well to the series of event
 
 # [Public Health Significance](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map&d=tree)
 
-Beyond COVID-19, public health, healthcare professionals, and scientists can use genomic surveillance to identify infectious disease clusters with greater speed and accuracy, and at earlier time points to help trigger and guide a more informed and effective public health response.
+As a former public health epidemiologist, I have learned the value of these new technologies and how they can significantly advance the state of infectious disease surveillance and public health response. Beyond COVID-19, public health, healthcare professionals, and scientists can use genomic surveillance to identify infectious disease clusters with greater speed and accuracy, and at earlier time points to help trigger and guide a more informed and effective public health response.
 
 # [Authors/Acknowledgements/Affiliations](https://nextstrain.org/community/tgennorth/arizona-covid-19)
 
