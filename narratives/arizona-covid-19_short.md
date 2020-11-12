@@ -39,9 +39,9 @@ The phylogenetic analysis of this cluster correlates well to the series of event
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-index.png" width="600px">
 ```
 
-# [Public Health Significance and Limitations](https://nextstrain.org/community/tgennorth/arizona-covid-19)
+# [Public Health Significance and Limitations](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=tree)
 
-test
+Beyond COVID-19, public health, healthcare professionals, and scientists can use genomic surveillance to identify infectious disease clusters with greater speed and accuracy, and at earlier time points to help trigger and guide a more informed and effective public health response.
 
 # [Authors/Acknowledgements/Affiliations](https://nextstrain.org/community/tgennorth/arizona-covid-19)
 
