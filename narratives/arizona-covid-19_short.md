@@ -31,7 +31,7 @@ Early on, evidence pointed to four independent clusters of COVID-19 occurring in
 
 Genomic analysis shows that this case seeded the outbreak comprising the majority of cases on this reservation, illustrated by the monophyletic clade defined by an amino acid change in the spike protein H245Y.
 
-# [Contact Tracing Identified Likely Transmission Pattern of SARS-CoV-2 from Index Case](https://nextstrain.org/community/tgennorth/arizona-covid-19)
+# [Contact Tracing Identified Likely Transmission Chain of SARS-CoV-2 from Index Case](https://nextstrain.org/community/tgennorth/arizona-covid-19)
 
 The phylogenetic analysis of this cluster correlates well to the series of events uncovered in the epidemiological investigation, and suggests successful isolation efforts with no further spread - in and among these households. However, the larger outbreak in this tribal community stemmed from this single case, and this was uncovered only by genomic analysis.
 
