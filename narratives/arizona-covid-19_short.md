@@ -42,7 +42,7 @@ The index case had five household close contacts, all of whom became symptomatic
 The phylogenetic analysis of this cluster correlates well to the series of events uncovered in the epidemiological investigation, and suggests successful isolation efforts with no further spread - in and among these households. However, the larger outbreak in this tribal community stemmed from this single case, and this was uncovered only by genomic analysis. This indicates that, despite rapid, efficient contact tracing and isolation directives from public health officials, transmission occurred that was not curbed. One limitation is that our genomic data does not capture all the cases seen in this community, therefore I want to emphasize here the importance of looking at genomic and epidemiologic data together.
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-index.png" width="50%">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-index.png" width="80%">
 ```
 
 # [Public Health Significance](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map&d=tree)
