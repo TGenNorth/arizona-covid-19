@@ -36,14 +36,14 @@ Genomic analysis shows that this case seeded the outbreak comprising the majorit
 The phylogenetic analysis of this cluster correlates well to the series of events uncovered in the epidemiological investigation, and suggests successful isolation efforts with no further spread - in and among these households. However, the larger outbreak in this tribal community stemmed from this single case, and this was uncovered only by genomic analysis.
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-index.png" width="400px">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-index.png" width="600px">
 ```
 
 # [Public Health Significance](https://nextstrain.org/community/tgennorth/arizona-covid-19?d=map&d=tree)
 
 Beyond COVID-19, public health, healthcare professionals, and scientists can use genomic surveillance to identify infectious disease clusters with greater speed and accuracy, and at earlier time points to help trigger and guide a more informed and effective public health response.
 
-# [Authors/Acknowledgements/Affiliations](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
+# [Authors/Acknowledgements/Affiliations](https://nextstrain.org/community/tgennorth/arizona-covid-19)
 
 - TGen
   - Dave Engelthaler
