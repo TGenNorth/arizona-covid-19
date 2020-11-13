@@ -21,6 +21,8 @@ Rapid public health response efforts, including quarantining, testing, and conta
 
 On March 26, just 3 weeks after community transmission had been identified by public health in Arizona, the Arizona Department of Health Services declared COVID-19 in Arizona to be “Widespread”, indicating that ≥12 of the 15 counties reported cases.
 
+The sizes of the circles, reflective of the number of genomes sequenced, is not representative of the case counts in each county due to availability of samples for sequencing.
+
 # [Genomic Epidemiology of a COVID-19 Outbreak Among Residents and Staff Linked to a Developmentally Disabled Adult Group Home](https://nextstrain.org/community/tgennorth/arizona-covid-19/Hozhoni?c=gt-S_5&d=tree&m=div&p=full)
 
 The epidemiologic and genomic evidence correlate and suggest that an infected staff member introduced COVID-19 into this setting.
