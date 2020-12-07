@@ -107,7 +107,7 @@ MicrobeTrace was used to visualize person-place linkages and integrate them with
 **The boxed orange nodes in the center of the network represent asymptomatic staff that are among the most interconnected individuals and potentially sourced this outbreak.**
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-7.png" width="750">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-7.png" width="650">
 ```
 
 # [Rapid Transmission of SARS-CoV-2 in an Arizona Tribal Community with Low Mortality](https://nextstrain.org/community/tgennorth/arizona-covid-19?c=mutation&d=tree&p=full)
