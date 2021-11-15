@@ -52,7 +52,7 @@ The Arizona Department of Health Services maintains a [COVID-19 Data Dashboard](
 
 # [Arizona SARS-CoV-2 Genomes in a Global Context](https://nextstrain.org/community/tgennorth/arizona-covid-19/?c=location&d=tree&p=full)
 
-OVID-19 came into Arizona from several different places, as demonstrated by this phylogenetic tree that displays the relatedness of different strains of the SARS-CoV-2 virus from around the world. (The colors represent the counties in Arizona.) The strains that are now circulating in Arizona are closely related to strains from many other countries; however, the vast majority of Arizona’s strain types are shared with other U.S. states or Europe, and typified by the presence of the now famous spike protein D614G mutation.
+COVID-19 came into Arizona from several different places, as demonstrated by this phylogenetic tree that displays the relatedness of different strains of the SARS-CoV-2 virus from around the world. (The colors represent the counties in Arizona.) The strains that are now circulating in Arizona are closely related to strains from many other countries; however, the vast majority of Arizona’s strain types are shared with other U.S. states or Europe, and typified by the presence of the now famous spike protein D614G mutation.
  
 This build includes a dataset of 3010 SARS-CoV-2 genomes sequenced from COVID-19 positive patient specimens from across Arizona. Positive specimens came from the TGen North Clinical Laboratory, Arizona State Public Health Laboratory, Sonora Quest Laboratory, Arizona State University, and University of Arizona, between March and August. The Arizona genomes are shown here with a set of 532 genomes from around the world shared in the [GISAID](https://www.gisaid.org/) database.
 
