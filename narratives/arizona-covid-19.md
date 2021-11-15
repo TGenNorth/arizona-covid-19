@@ -6,9 +6,9 @@ date: "2020 Sep 14"
 dataset: "https://nextstrain.org/community/tgennorth/arizona-covid-19/7-13-20?d=map"
 abstract: "Maintained by the Arizona COVID Genomics Union (ACGU) 
  
-The Arizona COVID-19 Genomics Union (ACGU) uses multiple sequencing platforms and custom computational analysis workflows to sequence SARS-CoV-2 virus genomes from COVID-19 patient specimens and to track the mutations in the virus to map its spread. By comparing mutations observed in Arizona to those present in strains circulating across the globe, we are determining when and from where the virus is coming into Arizona. By comparing strains within Arizona, the ACGU is also mapping the virus' transmission within and among Arizona’s communities.
+The Arizona COVID-19 Genomics Union (ACGU) uses multiple sequencing platforms and custom computational analysis workflows to sequence SARS-CoV-2 virus genomes from COVID-19 patient specimens and to track the spread of viral variants. By comparing mutations observed in Arizona to those present in strains circulating across the globe, we are determining when and from where the virus is coming into Arizona. By comparing strains within Arizona, the ACGU is also mapping the virus' transmission within and among Arizona’s communities.
  
-From among the >700,000 positive COVID-19 cases in Arizona, the ACGU has sequenced and analyzed SARS-CoV-2 genomes from over 6,000, making this sequencing effort one of the most extensive in the nation. 
+From among the >1,175,000 positive COVID-19 cases in Arizona, the ACGU has sequenced and analyzed SARS-CoV-2 genomes from over 32,000, making this sequencing effort one of the most extensive in the nation.
  
 The ACGU is a collaboration of scientists from the Translational Genomics Research Institute (TGen), Northern Arizona University (NAU), University of Arizona (UArizona), and Arizona State University (ASU)."
 ---
@@ -21,7 +21,7 @@ The ACGU is a collaboration of scientists from the Translational Genomics Resear
 
 
 
-
+<!-- comment -->
 # [Arizona’s COVID-19 Timeline](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
 
 COVID-19 has hugely impacted Arizona over the past nine months, sweeping through urban and rural areas, tribal nations, and correctional and healthcare facilities. 
