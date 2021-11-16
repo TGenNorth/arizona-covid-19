@@ -145,6 +145,19 @@ Sequencing data were not available for every positive case, a well understood li
 
 
 
+<!-- Page 8 -->                                                                                                                                                                     
+# [Contact Tracing Identified Likely Transmission Chain of SARS-CoV-2 from Index Case](https://nextstrain.org/community/tgennorth/arizona-covid-19)
+
+The phylogenetic analysis of this cluster correlates well to the series of events uncovered in the epidemiological investigation, and suggests successful isolation efforts with no further spread - in and among these households. However, the larger outbreak in this tribal community stemmed from this single case, and this was uncovered only by genomic analysis.
+
+```auspiceMainDisplayMarkdown
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-index.png" width="600px">
+```
+
+
+
+
+
 <!-- Page -3 -->
 # [Public Health Significance](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
 
