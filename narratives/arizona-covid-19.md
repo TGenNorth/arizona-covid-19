@@ -1,16 +1,16 @@
 ---
 title: "Arizona SARS-CoV-2 Genomes in a Global Context"
 authorLinks: "https://www.tgen.org/patients/pathogen-microbiome/"
-affiliations: "ACGU, TGen"
-date: "2020 Sep 14"
+affiliations: "TGen, ADHS"
+date: "December 2021"
 dataset: "https://nextstrain.org/community/tgennorth/arizona-covid-19/7-13-20?d=map"
-abstract: "Maintained by the Arizona COVID Genomics Union (ACGU) 
+abstract: "Maintained by TGen North and ADHS 
  
-The Arizona COVID-19 Genomics Union (ACGU) uses multiple sequencing platforms and custom computational analysis workflows to sequence SARS-CoV-2 virus genomes from COVID-19 patient specimens and to track the spread of viral variants. By comparing mutations observed in Arizona to those present in strains circulating across the globe, we are determining when and from where the virus is coming into Arizona. By comparing strains within Arizona, the ACGU is also mapping the virus' transmission within and among Arizona’s communities.
+Before the COVID-19 pandemic began, Arizona was one of the few places in the world that had a robust genomic surveillance system in place that could respond immediately to emerging diseases. As part of this surveillance system, the Translational Genomics Research Institute (TGen North) had (and still has) partnerships with the Arizona Department of Health Services (ADHS) and several other public health agencies, including tribal and county health departments, as well as many healthcare facilities around the state. Because of this, **TGen North was one of the first laboratories in the U.S. to not only set up a COVID-19 diagnostic testing lab, but to launch SARS-CoV-2 genomic surveillance**. We sequenced our first SARS-CoV-2 genome on March 11, 2020, and our first diagnostic test was run on March 16, 2020.
  
-From among the >1,175,000 positive COVID-19 cases in Arizona, the ACGU has sequenced and analyzed SARS-CoV-2 genomes from over 32,000, making this sequencing effort one of the most extensive in the nation.
+Genomic surveillance has shown that today’s globalized society resulted in a homogenous distribution of SARS-CoV-2 lineages: most of the viral lineages found in Arizona are also seen across the world, but a limited number of virus lineages were confined within the state. Importantly, genomic surveillance is also able to illustrate the movement of SARS-CoV-2 from country to country and person to person.
  
-The ACGU is a collaboration of scientists from the Translational Genomics Research Institute (TGen), Northern Arizona University (NAU), University of Arizona (UArizona), and Arizona State University (ASU)."
+Our narrative tells the stories of those virus transmissions and SARS-CoV-2 evolution, set in the context of Arizona’s unique ecology and demography, and the remarkable response of our public health and healthcare workers."
 ---
 
 
