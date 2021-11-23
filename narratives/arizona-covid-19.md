@@ -11,6 +11,10 @@ Before the COVID-19 pandemic began, Arizona was one of the few places in the wor
 Genomic surveillance has shown that today’s globalized society resulted in a homogenous distribution of SARS-CoV-2 lineages: most of the viral lineages found in Arizona are also seen across the world, but a limited number of virus lineages were confined within the state. Importantly, genomic surveillance is also able to illustrate the movement of SARS-CoV-2 from country to country and person to person.
  
 Our narrative tells the stories of those virus transmissions and SARS-CoV-2 evolution, set in the context of Arizona’s unique ecology and demography, and the remarkable response of our public health and healthcare workers."
+
+```auspiceMainDisplayMarkdown
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/lineages.gif">
+```
 ---
 
 
