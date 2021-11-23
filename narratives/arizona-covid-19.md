@@ -100,11 +100,11 @@ Arizona’s COVID-19 & Pets Program is a surveillance study to characterize how 
 This is one of the first studies in the U.S. documenting transmission of COVID-19 from a pet owner to pets.
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-8.png" width="550">
+<div> <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-8.png" width="550">
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
+<!-- <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70"> -->
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-9.png" width="350">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-9.png" width="350"> </div>
 ```
 
 
