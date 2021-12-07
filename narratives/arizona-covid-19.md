@@ -89,11 +89,11 @@ Arizona’s COVID-19 & Pets Program is a surveillance study to characterize how 
 This is one of the first studies in the U.S. documenting transmission of COVID-19 from a pet owner to pets.
 
 ```auspiceMainDisplayMarkdown
-<div> <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-8.png" width="550">
+<div> <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-8.png" width="500">
 
 <!-- <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70"> -->
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-9.png" width="350"> </div>
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-9.png" width="500"> </div>
 ```
 
 
@@ -118,6 +118,8 @@ We’ve used whole genome sequencing and data analysis to help our public health
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-10.png" width="650">
 
 An artist rendering of a SARS-CoV-2 virus particle as its spike proteins (red) attach to ACE2 receptors (dark blue) on a human cell.
+
+The ACE-2 receptor on mammalian cells (a physiological trait that many species have in common) serves as a docking station for when the SARS-CoV-2 virus comes calling. Over the course of this pandemic, the virus has acquired mutations in the spike proteins that slightly change the shape of the virus, allowing it to bind with even greater affinity to the ACE-2 receptors on cells. Studies have shown that the SARS-CoV-2 spike proteins fit just as well with mink and feline ACE-2 receptors as they do humans.
 ```
 
 
