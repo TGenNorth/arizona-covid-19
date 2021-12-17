@@ -125,19 +125,19 @@ The Hopi, after suffering an intense initial COVID-19 wave, [significantly impro
 
 [Image Credit](https://www.nejm.org/doi/full/10.1056/NEJMp2012114)
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="50">
 
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-6.png" width="500">
 
 [Image Credit](https://www.voanews.com/a/usa_navajo-government-citizens-united-against-covid-19/6186933.html)
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="50">
 
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-7.png" width="500">
 
 [Image Credit](https://www.nhonews.com/news/2020/mar/31/navajo-hopi-families-covid-19-relief-aims-help-eld/)
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="50">
 
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-8.png" width="500">
 
@@ -187,13 +187,13 @@ We’ve used whole genome sequencing and data analysis to help our public health
 
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-10.png" width="500">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-10.png" width="650">
 
 **An artist rendering of a SARS-CoV-2 virus particle as its spike proteins (red) attach to ACE2 receptors (dark blue) on a human cell**. The ACE-2 receptor on mammalian cells (a physiological trait that many species have in common) serves as a docking station for when the SARS-CoV-2 virus comes calling. Over the course of this pandemic, the virus has acquired mutations in the spike proteins that slightly change the shape of the virus, allowing it to bind with even greater affinity to the ACE-2 receptors on cells. Studies have shown that the SARS-CoV-2 spike proteins fit just as well with mink and feline ACE-2 receptors as they do humans.
 
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-11.png" width="500">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-11.png" width="800">
 
 **Schematic of SARS-CoV-2 genome showing most common Spike gene mutations for the Delta lineage**. Genomic surveillance efforts can track these mutations to support public health and to understand how the virus will continue to evolve. Image created with [BioRender.com](https://biorender.com/).
 ```
