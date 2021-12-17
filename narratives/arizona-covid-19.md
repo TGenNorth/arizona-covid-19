@@ -32,7 +32,7 @@ Related articles:
 * [ACGU published analysis of early pandemic in Arizona](https://mbio.asm.org/content/11/5/e02107-20)
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" width="1200vh">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" height="1200vh">
 ```
 
 
@@ -86,17 +86,21 @@ View the article [here](https://www.frontiersin.org/articles/10.3389/fpubh.2021.
 <!-- Page 5 -->
 # [Household Cluster of SARS-CoV-2 Disease in Cat, Dog, and Pet Owner](https://nextstrain.org/community/tgennorth/arizona-covid-19)
 
-Arizona’s COVID-19 & Pets Program is a surveillance study to characterize how SARS-CoV-2 impacts companion animals living in households with people who have tested positive for the virus. Among the enrolled pets, we identified an infected cat and dog from the same household; both animals were asymptomatic but had close contact with their owner. Whole genome sequencing of animal and owner specimens revealed identical viral genomes, suggesting zoonotic transmission of SARS-CoV-2 from human to at least one pet.
+Arizona’s COVID-19 & Pets Program is a surveillance study to characterize how SARS-CoV-2 impacts companion animals living in households with people who have tested positive for the virus.
+ 
+Among the enrolled pets, we identified an infected cat and dog from the same household; both animals were asymptomatic but had close contact with their owner. Whole genome sequencing of animal and owner specimens revealed identical viral genomes, suggesting zoonotic transmission of SARS-CoV-2 from human to at least one pet.
  
 This is one of the first studies in the U.S. documenting transmission of COVID-19 from a pet owner to pets.
+ 
+View the article [here](https://www.sciencedirect.com/science/article/pii/S2352771421001233).
 
 ```auspiceMainDisplayMarkdown
-<div> <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-3.png" width="500">
-
-<!-- <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70"> -->
-
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-4.png" width="500">
-
+<div width="100%">
+  <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-3.png" width="600">
+</div>
+<div width="100%">
+  <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-4.png" width="600">
+</div>
 Photo credit: Steve Yozwiak, TGen. Permission for use was granted by pet owners. </div>
 ```
 
@@ -119,16 +123,16 @@ The Hopi, after suffering an intense initial COVID-19 wave, [significantly impro
 ```auspiceMainDisplayMarkdown
 <div>
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-5.png" width="500">
-  <p>[Image Credit](https://www.nejm.org/doi/full/10.1056/NEJMp2012114)</p>
+  [Image Credit](https://www.nejm.org/doi/full/10.1056/NEJMp2012114)
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-6.png" width="500">
-  <p>[Image Credit](https://www.voanews.com/a/usa_navajo-government-citizens-united-against-covid-19/6186933.html)</p>
+  [Image Credit](https://www.voanews.com/a/usa_navajo-government-citizens-united-against-covid-19/6186933.html)
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-7.png" width="500">
-  <p>[Image Credit](https://www.nhonews.com/news/2020/mar/31/navajo-hopi-families-covid-19-relief-aims-help-eld/)</p>
+  [Image Credit](https://www.nhonews.com/news/2020/mar/31/navajo-hopi-families-covid-19-relief-aims-help-eld/)
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-8.png" width="500">
-  <p>[Image Credit](https://time.com/6116716/white-mountain-apache-tribe-contact-tracing/)</p>
+  [Image Credit](https://time.com/6116716/white-mountain-apache-tribe-contact-tracing/)
 </div>
 ```
 
@@ -152,7 +156,7 @@ As of December 2021, Delta continues to be the main variant circulating in Arizo
 Data in figure are from the [Arizona COVID-19 Sequencing Dashboard](https://pathogen.tgen.org/covidseq-tracker/arizona_trends.html).
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-9.png" width="600">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-9.png" width="800">
 ```
 
 
@@ -177,10 +181,10 @@ We’ve used whole genome sequencing and data analysis to help our public health
 ```auspiceMainDisplayMarkdown
 <div>
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-10.png" width="500">
-  <p>**An artist rendering of a SARS-CoV-2 virus particle as its spike proteins (red) attach to ACE2 receptors (dark blue) on a human cell**. The ACE-2 receptor on mammalian cells (a physiological trait that many species have in common) serves as a docking station for when the SARS-CoV-2 virus comes calling. Over the course of this pandemic, the virus has acquired mutations in the spike proteins that slightly change the shape of the virus, allowing it to bind with even greater affinity to the ACE-2 receptors on cells. Studies have shown that the SARS-CoV-2 spike proteins fit just as well with mink and feline ACE-2 receptors as they do humans.</p>
+  **An artist rendering of a SARS-CoV-2 virus particle as its spike proteins (red) attach to ACE2 receptors (dark blue) on a human cell**. The ACE-2 receptor on mammalian cells (a physiological trait that many species have in common) serves as a docking station for when the SARS-CoV-2 virus comes calling. Over the course of this pandemic, the virus has acquired mutations in the spike proteins that slightly change the shape of the virus, allowing it to bind with even greater affinity to the ACE-2 receptors on cells. Studies have shown that the SARS-CoV-2 spike proteins fit just as well with mink and feline ACE-2 receptors as they do humans.
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-11.png" width="500">
-  <p>**Schematic of SARS-CoV-2 genome showing most common Spike gene mutations for the Delta lineage**. Genomic surveillance efforts can track these mutations to support public health and to understand how the virus will continue to evolve. Image created with [BioRender.com](https://biorender.com/).</p>
+  **Schematic of SARS-CoV-2 genome showing most common Spike gene mutations for the Delta lineage**. Genomic surveillance efforts can track these mutations to support public health and to understand how the virus will continue to evolve. Image created with [BioRender.com](https://biorender.com/).
 </div>
 ```
 
@@ -238,11 +242,13 @@ TGen  would like to acknowledge the tireless efforts of Arizona’s local, triba
 
 ```auspiceMainDisplayMarkdown
 <div width="100%">
-  <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-tgen.png" width="500">
+  <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-tgen.png" width="600">
 </div>
-<div>
+<div width="100%">
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-nau.png" width="250">
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-ua.png" width="250">
+</div>
+<div width="100%">
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-asu.png" width="250">
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-adhs.png" width="250">
 </div>
