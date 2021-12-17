@@ -32,7 +32,7 @@ Related articles:
 * [ACGU published analysis of early pandemic in Arizona](https://mbio.asm.org/content/11/5/e02107-20)
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" height="1300vh">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" height="1000vh">
 ```
 
 
@@ -95,13 +95,11 @@ This is one of the first studies in the U.S. documenting transmission of COVID-1
 View the article [here](https://www.sciencedirect.com/science/article/pii/S2352771421001233).
 
 ```auspiceMainDisplayMarkdown
-<div width="100%">
-  <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-3.png" width="500">
-</div>
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-3.png" width="500">
+
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
-<div width="100%">
-  <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-4.png" width="500">
-</div>
+
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-4.png" width="500">
 
 Photo credit: Steve Yozwiak, TGen. Permission for use was granted by pet owners.
 ```
@@ -124,7 +122,6 @@ The Hopi, after suffering an intense initial COVID-19 wave, [significantly impro
 
 ```auspiceMainDisplayMarkdown
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-5.png" width="500">
-
 
 [Image Credit](https://www.nejm.org/doi/full/10.1056/NEJMp2012114)
 
@@ -167,7 +164,7 @@ As of December 2021, Delta continues to be the main variant circulating in Arizo
 Data in figure are from the [Arizona COVID-19 Sequencing Dashboard](https://pathogen.tgen.org/covidseq-tracker/arizona_trends.html).
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-9.png" width="900">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-9.png" width="80%" max-height="800px">
 ```
 
 
@@ -256,6 +253,7 @@ TGen  would like to acknowledge the tireless efforts of Arizona’s local, triba
 ```auspiceMainDisplayMarkdown
 <div width="100%">
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-tgen.png" width="600">
+  <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
 </div>
 <div width="100%">
   <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-nau.png" width="250">
