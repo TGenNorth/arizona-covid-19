@@ -30,7 +30,7 @@ The Arizona Department of Health Services maintains a [COVID-19 Data Dashboard](
 * [ACGU published analysis of early pandemic in Arizona](https://mbio.asm.org/content/11/5/e02107-20)
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" height="1300vh">
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline-horizontal.png" width="90%">
 ```
 
 
