@@ -4,12 +4,12 @@ authorLinks: "https://www.tgen.org/patients/pathogen-microbiome/"
 affiliations: "TGen, ADHS"
 date: "December 2021"
 dataset: "https://nextstrain.org/community/tgennorth/arizona-covid-19/AZ?animate=2020-03-13,2021-11-09,1,0,15000&d=map&f_Pango_lineage=A.2.5,A.2.5.2,A.5,AY.1,AY.10,AY.100,AY.101,AY.102,AY.103,AY.105,AY.107,AY.109,AY.110,AY.13,AY.14,AY.16,AY.17,AY.19,AY.2,AY.20,AY.21,AY.24,AY.25,AY.26,AY.3,AY.3.1,AY.33,AY.34,AY.35,AY.36,AY.37,AY.38,AY.39,AY.39.1,AY.4,AY.41,AY.42,AY.43,AY.44,AY.45,AY.46,AY.46.1,AY.46.2,AY.46.4,AY.46.6,AY.47,AY.48,AY.5,AY.5.3,AY.50,AY.52,AY.53,AY.54,AY.57,AY.58,AY.61,AY.62,AY.63,AY.64,AY.65,AY.67,AY.7.1,AY.74,AY.75,AY.75.1,AY.81,AY.88,AY.9.1,AY.9.2,AY.91,AY.92,AY.93,AY.94,AY.98,AY.98.1,B.1,B.1.1.519,B.1.1.7,B.1.289,B.1.351,B.1.427,B.1.429,B.1.516,B.1.526,B.1.551,B.1.617.2,P.1,B.1.243&p=full"
-abstract: "Maintained by TGen North and ADHS  
-  
-Before the COVID-19 pandemic began, Arizona was one of the few places in the world that had a robust genomic surveillance system in place that could respond immediately to emerging diseases. As part of this surveillance system, the Translational Genomics Research Institute (TGen North) had (and still has) partnerships with the Arizona Department of Health Services (ADHS) and several other public health agencies, including tribal and county health departments, as well as many healthcare facilities around the state. Because of this, TGen North was one of the first laboratories in the U.S. to not only set up a COVID-19 diagnostic testing lab, but to launch SARS-CoV-2 genomic surveillance. We sequenced our first SARS-CoV-2 genome on March 11, 2020, and our first diagnostic test was run on March 16, 2020.  
-  
-Genomic surveillance has shown that today’s globalized society resulted in a homogenous distribution of SARS-CoV-2 lineages: most of the viral lineages found in Arizona are also seen across the world, but a limited number of virus lineages were confined within the state. Importantly, genomic surveillance is also able to illustrate the movement of SARS-CoV-2 from country to country and person to person.  
-  
+abstract: "Maintained by TGen North and ADHS
+
+Before the COVID-19 pandemic began, Arizona was one of the few places in the world that had a robust genomic surveillance system in place that could respond immediately to emerging diseases. As part of this surveillance system, the Translational Genomics Research Institute (TGen North) had (and still has) partnerships with the Arizona Department of Health Services (ADHS) and several other public health agencies, including tribal and county health departments, as well as many healthcare facilities around the state. Because of this, TGen North was one of the first laboratories in the U.S. to not only set up a COVID-19 diagnostic testing lab, but to launch SARS-CoV-2 genomic surveillance. We sequenced our first SARS-CoV-2 genome on March 11, 2020, and our first diagnostic test was run on March 16, 2020.\n
+
+Genomic surveillance has shown that today’s globalized society resulted in a homogenous distribution of SARS-CoV-2 lineages: most of the viral lineages found in Arizona are also seen across the world, but a limited number of virus lineages were confined within the state. Importantly, genomic surveillance is also able to illustrate the movement of SARS-CoV-2 from country to country and person to person.\n
+
 Our narrative tells the stories of those virus transmissions and SARS-CoV-2 evolution, set in the context of Arizona’s unique ecology and demography, and the remarkable response of our public health and healthcare workers."
 ---
 
