@@ -2,15 +2,16 @@
 title: "SARS-CoV-2 Variant Trends in Arizona"
 authorLinks: "https://www.tgen.org/patients/pathogen-microbiome/"
 affiliations: "TGen, ADHS"
-date: "Last Updated: April 2022"
+date: "April 2022"
 dataset: "https://nextstrain.org/community/tgennorth/arizona-covid-19/AZ?animate=2020-03-13,2021-11-09,1,0,15000&d=map&f_Pango_lineage=A.2.5,A.2.5.2,A.5,AY.1,AY.10,AY.100,AY.101,AY.102,AY.103,AY.105,AY.107,AY.109,AY.110,AY.13,AY.14,AY.16,AY.17,AY.19,AY.2,AY.20,AY.21,AY.24,AY.25,AY.26,AY.3,AY.3.1,AY.33,AY.34,AY.35,AY.36,AY.37,AY.38,AY.39,AY.39.1,AY.4,AY.41,AY.42,AY.43,AY.44,AY.45,AY.46,AY.46.1,AY.46.2,AY.46.4,AY.46.6,AY.47,AY.48,AY.5,AY.5.3,AY.50,AY.52,AY.53,AY.54,AY.57,AY.58,AY.61,AY.62,AY.63,AY.64,AY.65,AY.67,AY.7.1,AY.74,AY.75,AY.75.1,AY.81,AY.88,AY.9.1,AY.9.2,AY.91,AY.92,AY.93,AY.94,AY.98,AY.98.1,B.1,B.1.1.519,B.1.1.7,B.1.289,B.1.351,B.1.427,B.1.429,B.1.516,B.1.526,B.1.551,B.1.617.2,P.1,B.1.243&p=full"
 abstract: "Maintained by TGen North and ADHS
-
-**Before the COVID-19 pandemic began, Arizona was one of the few places in the world that had a robust genomic surveillance system in place that could respond immediately to emerging diseases.** As part of this surveillance system, the Translational Genomics Research Institute (TGen North) had (and still has) partnerships with the Arizona Department of Health Services (ADHS) and several other public health agencies, including tribal and county health departments, as well as many healthcare facilities around the state. Because of this, TGen North was one of the first laboratories in the U.S. to not only set up a COVID-19 diagnostic testing lab, but to launch SARS-CoV-2 genomic surveillance. We sequenced our first SARS-CoV-2 genome on March 11, 2020, and our first diagnostic test was run on March 16, 2020.\n
-
-Genomic surveillance has shown that today’s globalized society resulted in a homogenous distribution of SARS-CoV-2 lineages: most of the viral lineages found in Arizona are also seen across the world, but a limited number of virus lineages were confined within the state. Importantly, genomic surveillance is also able to illustrate the movement of SARS-CoV-2 from country to country and person to person.\n
-
-Our narrative tells the stories of those virus transmissions and SARS-CoV-2 evolution, set in the context of Arizona’s unique ecology and demography, and the remarkable response of our public health and healthcare workers."
+ 
+Before the COVID-19 pandemic began, Arizona was one of the few places in the world that had a robust genomic surveillance system in place that could respond immediately to emerging diseases. As part of this surveillance system, the Translational Genomics Research Institute (TGen North) developed new partnerships with the Arizona Department of Health Services (ADHS) and several other public health agencies, including tribal and county health departments, as well as many healthcare facilities around the state. Because of this, TGen North was one of the first laboratories in the U.S. to not only set up a COVID-19 diagnostic testing lab, but to launch SARS-CoV-2 genomic surveillance. We sequenced our first SARS-CoV-2 genome on March 11, 2020, and our first diagnostic test was run on March 16, 2020.
+ 
+Genomic surveillance has shown that today’s globalized society resulted in a homogenous distribution of SARS-CoV-2 lineages: most of the viral lineages found in Arizona are also seen across the world, but a limited number of virus lineages were confined within the state. Importantly, genomic surveillance is also able to illustrate the movement of SARS-CoV-2 from country to country and person to person.
+ 
+Our narrative tells the stories of those virus transmissions and SARS-CoV-2 evolution, set in the context of Arizona’s unique ecology and demography, and the remarkable response of our public health and healthcare workers.
+"
 ---
 
 
@@ -20,16 +21,17 @@ Our narrative tells the stories of those virus transmissions and SARS-CoV-2 evol
 <!-- Page 2 -->
 # [Arizona’s COVID-19 Timeline](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
 
-**Arizona detected and successfully contained its first COVID-19 case on January 26.** Early March marked the first recorded cases of community transmission, and by late March state public health officials declared the virus “Widespread”. As in other states, throughout June and July, hospitalizations were at an all-time high, and infection rates skyrocketed.
+Arizona detected and successfully contained its first COVID-19 case on January 26. Early March marked the first recorded cases of community transmission, and by late March state public health officials declared the virus “Widespread”. As in other states, throughout June and July, hospitalizations were at an all-time high, and infection rates skyrocketed.
  
-Despite intensive mitigation efforts implemented statewide, Arizona began to experience their second wave beginning in mid-November that has continued into 2021. The Delta variant was introduced to Arizona in late January 2021, and began spreading more widely in May. As of December 2021, Arizona has reported over 1.2 million cases and 21,000 deaths.
+Despite intensive mitigation efforts implemented statewide, Arizona began to experience their second wave beginning in mid-November that has continued into 2021. The Delta variant was introduced to Arizona in late January 2021, and began spreading more widely in May, while the Omicron variant first appeared in Arizona in December 2021. As of April 2022, Arizona has reported over 2 million cases and nearly 23,000 deaths.
  
-The Arizona Department of Health Services maintains a [COVID-19 Data Dashboard](https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/covid-19/dashboards/index.php), and TGen North developed the [Arizona COVID-19 Sequencing Dashboard](https://pathogen.tgen.org/covidseq-tracker/). From the ~1.2 million positive COVID-19 cases in Arizona, TGen North has sequenced and analyzed >52,000 SARS-CoV-2 genomes.
+The Arizona Department of Health Services maintains a [COVID-19 Data Dashboard](https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/covid-19/dashboards/index.php), and TGen North developed the [Arizona COVID-19 Sequencing Dashboard](https://pathogen.tgen.org/covidseq-tracker/). From the ~2 million positive COVID-19 cases in Arizona, TGen North and partners have sequenced and analyzed >100,000 SARS-CoV-2 genomes.
  
 Related articles:
  
 * [Timeline: WHOs COVID-19 Response](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/interactive-timeline#event-71)
 * [ACGU published analysis of early pandemic in Arizona](https://mbio.asm.org/content/11/5/e02107-20)
+
 
 ```auspiceMainDisplayMarkdown
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" height="1000vh">
@@ -42,15 +44,17 @@ Related articles:
 <!-- Page 3 -->
 # [An Early Pandemic Analysis of SARS-CoV-2 Population Structure and Dynamics in Arizona](https://nextstrain.org/community/tgennorth/arizona-covid-19/)
 
-Arizona’s first COVID-19 case was in a 26-year-old symptomatic male who had recently traveled to Wuhan City, China. This case was rapidly quarantined. Genomic analysis of the virus supports the public health contact tracing conclusions that no subsequent transmission occurred.
+In response to the COVID-19 pandemic spreading through Arizona, the Arizona COVID-19 Genomics Union (ACGU) was formed to assess introductions and transmission patterns from a genomic perspective. This Union brought together top genomic experts from TGen, Northern Arizona University, University of Arizona, and Arizona State University. Their early pandemic findings were [published](https://journals.asm.org/doi/10.1128/mbio.02107-20?permanently=true) in mBio in September 2020. 
  
-Viral sequencing data was further generated by TGen and other labs, allowing for a comprehensive genomic analysis of SARS-CoV-2 introduction into and spread across AZ. 
+From epidemiological data, it was determined that Arizona’s first COVID-19 case was in a 26-year-old symptomatic male who had recently traveled to Wuhan City, China. This case was rapidly quarantined. Genomic analysis provided by the ACGU supports the public health contact tracing conclusions that no subsequent transmission occurred.
+ 
+Viral sequencing data was further generated by TGen and other labs, allowing for a comprehensive genomic analysis of SARS-CoV-2 introduction into and spread across AZ.
  
 This analysis revealed that:
  
-* **SARS-CoV-2 was introduced at least twelve times by April 2020 from other countries and parts of the US.**
-* **The first introductions resulting in community transmission were in mid to late February.**
-* **Introductions mostly resulted from domestic travel.**
+* SARS-CoV-2 was introduced at least twelve times by April 2020 from other countries and parts of the US.
+* The first introductions resulting in community transmission were in mid- to late February.
+* Introductions mostly resulted from domestic travel.
  
 This [early pandemic analysis](https://tgen.us10.list-manage.com/track/click?u=6b0e128788a10661a1fb2d549&id=f3e6925358&e=81c3146932) was supported by: The NARBHA Institute, Flinn Foundation, The Virginia G. Piper Charitable Trust, Blue Cross and Blue Shield of Arizona, the National Institutes of Health, the David and Lucile Packard Foundation, the University of Arizona College of Science and Office of Research Innovation and Impact, and the BIO5 Institute.
 
@@ -95,13 +99,13 @@ This is one of the first studies in the U.S. documenting transmission of COVID-1
 View the article [here](https://www.sciencedirect.com/science/article/pii/S2352771421001233).
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-3.png" width="500">
-
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
-
 <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-4.png" width="500">
 
 Photo credit: Steve Yozwiak, TGen. Permission for use was granted by pet owners.
+
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
+
+<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-3.png" width="500">
 ```
 
 
@@ -158,6 +162,8 @@ The **Alpha (B.1.1.7) variant**, which emerged in the United Kingdom, was first 
 Several other variants, including Beta **(B.1.351)**, **Gamma (P.1)**, and **Epsilon (B.1.427 and B.1.429)** initially presented concern for public health; however, these variants eventually diminished in prevalence.
 
 The **Delta (B.1.617.2) variant** emerged in India and has since diverged into a number of associated sublieanges **(e.g., AY.3, AY.25, AY. 44, and AY.103)**. Delta has been associated with increase in transmissibility and vaccine breakthrough. In mid-June 2021, Delta prevalence surpassed Alpha and other variants and became dominant in Arizona by the end of summer.
+
+The **Omicron (BA.1) variant**, first identified in South Africa, has been associated with a dramatic increase in transmissibility over Delta and other variants. Omicron became dominant in Arizona in January 2022.
 
 As of December 2021, Delta continues to be the main variant circulating in Arizona, although we have identified the **Omicron (BA.1 and BA.2) variant** in four counties across the state.
 
