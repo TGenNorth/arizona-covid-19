@@ -34,7 +34,7 @@ Related articles:
 
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-timeline.png" height="1000vh">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/az-covid-timeline.png" height="1000vh">
 ```
 
 
@@ -59,13 +59,13 @@ This analysis revealed that:
 This [early pandemic analysis](https://tgen.us10.list-manage.com/track/click?u=6b0e128788a10661a1fb2d549&id=f3e6925358&e=81c3146932) was supported by: The NARBHA Institute, Flinn Foundation, The Virginia G. Piper Charitable Trust, Blue Cross and Blue Shield of Arizona, the National Institutes of Health, the David and Lucile Packard Foundation, the University of Arizona College of Science and Office of Research Innovation and Impact, and the BIO5 Institute.
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-1.png" width="650">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/az-covid-1.png" width="650">
 
 **First introductions were as early as mid-February**. Molecular clock analyses back-calculate the date that each lineage of virus spreading in Arizona (color-coded above) originated from one individual, i.e., the person that carried the virus into the state. The five major early lineages of virus in Arizona were estimated to be carried in in mid-February to late March.
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/blank.png" width="100%" height="70">
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-2.png" width="650">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/az-covid-2.png" width="650">
 
 **First introductions were mostly from domestic travel**. For six of the earliest strain types of SARS-CoV-2 in Arizona (A.1 to B.1.29), those same strain types were found in other parts of North America (blue) and Europe (gray). This demonstrates that the introductions of COVID-19 to Arizona likely came with people traveling within the U.S. or from Europe.
 ```
@@ -99,13 +99,13 @@ This is one of the first studies in the U.S. documenting transmission of COVID-1
 View the article [here](https://www.sciencedirect.com/science/article/pii/S2352771421001233).
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-4.png" width="500">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/az-covid-4.png" width="500">
 
 Photo credit: Steve Yozwiak, TGen. Permission for use was granted by pet owners.
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/blank.png" width="100%" height="70">
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-3.png" width="500">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/az-covid-3.png" width="500">
 ```
 
 
@@ -125,25 +125,25 @@ The incredible contact tracing efforts by the White Mountain Apache Tribe likely
 The Hopi, after suffering an intense initial COVID-19 wave, [significantly improved their prevention and response systems](https://pubmed.ncbi.nlm.nih.gov/33963017/) to enable real-time awareness of the changing epidemiology, rapid response coordination, swift scale up of health communications and community surveillance, all which led to successfully driving down cases.
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-5.png" width="500">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/az-covid-5.png" width="500">
 
 [Image Credit](https://www.nejm.org/doi/full/10.1056/NEJMp2012114)
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="30">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/blank.png" width="100%" height="30">
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-6.png" width="500">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/az-covid-6.png" width="500">
 
 [Image Credit](https://www.voanews.com/a/usa_navajo-government-citizens-united-against-covid-19/6186933.html)
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="30">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/blank.png" width="100%" height="30">
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-7.png" width="500">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/az-covid-7.png" width="500">
 
 [Image Credit](https://www.nhonews.com/news/2020/mar/31/navajo-hopi-families-covid-19-relief-aims-help-eld/)
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="30">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/blank.png" width="100%" height="30">
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-8.png" width="500">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/az-covid-8.png" width="500">
 
 [Image Credit](https://time.com/6116716/white-mountain-apache-tribe-contact-tracing/)
 ```
@@ -170,7 +170,7 @@ As of December 2021, Delta continues to be the main variant circulating in Arizo
 Data in figure are from the [Arizona COVID-19 Sequencing Dashboard](https://pathogen.tgen.org/covidseq-tracker/arizona_trends.html).
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-9.png" width="80%" max-height="800px">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/az-covid-9.png" width="80%" max-height="800px">
 ```
 
 
@@ -193,13 +193,13 @@ We’ve used whole genome sequencing and data analysis to help our public health
 
 
 ```auspiceMainDisplayMarkdown
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-10.png" width="650">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/az-covid-10.png" width="650">
 
 **An artist rendering of a SARS-CoV-2 virus particle as its spike proteins (red) attach to ACE2 receptors (dark blue) on a human cell**. The ACE-2 receptor on mammalian cells (a physiological trait that many species have in common) serves as a docking station for when the SARS-CoV-2 virus comes calling. Over the course of this pandemic, the virus has acquired mutations in the spike proteins that slightly change the shape of the virus, allowing it to bind with even greater affinity to the ACE-2 receptors on cells. Studies have shown that the SARS-CoV-2 spike proteins fit just as well with mink and feline ACE-2 receptors as they do humans.
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="70">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/blank.png" width="100%" height="70">
 
-<img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/az-covid-11.png" width="800">
+<img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/az-covid-11.png" width="800">
 
 **Schematic of SARS-CoV-2 genome showing most common Spike gene mutations for the Delta lineage**. Genomic surveillance efforts can track these mutations to support public health and to understand how the virus will continue to evolve. Image created with [BioRender.com](https://biorender.com/).
 ```
@@ -258,15 +258,15 @@ TGen  would like to acknowledge the tireless efforts of Arizona’s local, triba
 
 ```auspiceMainDisplayMarkdown
 <div width="100%">
-  <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-tgen.png" width="600">
-  <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/blank.png" width="100%" height="100">
+  <img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/logo-tgen.png" width="600">
+  <img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/blank.png" width="100%" height="100">
 </div>
 <div width="100%">
-  <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-nau.png" width="250">
-  <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-ua.png" width="250">
+  <img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/logo-nau.png" width="250">
+  <img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/logo-ua.png" width="250">
 </div>
 <div width="100%">
-  <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-asu.png" width="250">
-  <img src="https://pathogen.tgen.org/epitools/static/nextstrain/images/logo-adhs.png" width="250">
+  <img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/logo-asu.png" width="250">
+  <img src="https://pathogen-intelligence.tgen.org/static/nextstrain/images/logo-adhs.png" width="250">
 </div>
 ```
